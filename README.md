@@ -30,5 +30,4 @@ $ cd src
 $ sass-watch scss:css
 $ cd ..
 ```
-
 2. Compile via [Packager](https://github.com/Lysianthus/packager). Files will be located in the `dist` folder.
