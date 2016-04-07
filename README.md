@@ -10,5 +10,10 @@ Asclaria is Lysianthus's umbrella network.
 
 * Apache 2.2+
 * PHP 5.6+
+* MySQL 5.5+
 
-Enabled Apache `rewrite_module`.
+Enable Apache `rewrite_module`.
+
+## Compilation
+
+Compile via [Packager](https://github.com/Lysianthus/packager). Files will be located in the `dist` folder.
