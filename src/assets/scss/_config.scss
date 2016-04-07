@@ -1,0 +1,52 @@
+// Fonts
+
+$fontDefault: 'Karla', serif;
+$fontHeading: 'Gardenia', cursive;
+
+@font-face {
+	font-family: 'Gardenia';
+	font-weight: normal;
+	font-style: normal;
+	src: url('../fonts/gardenia.woff') format('woff');
+}
+
+
+// Colors
+
+$brown: #7f6a4e;
+$red: #ea3627;
+$olive: #b1bb9a;
+$beige: #f8b583;
+$yellow: #f8efd2;
+$orange: #f8772e;
+
+$gray: #999;
+$bggray: #DDD;
+
+$white: #FFF;
+$black: #000;
+
+
+// Reusable Classes
+
+%relative-zero {
+	margin: 0;
+	padding: 0;
+}
+
+%clearfix {
+	@extend %relative-zero;
+	content: '';
+	display: table;
+	clear: both;
+}
+
+
+// Mixins
+
+@mixin font($name, $weight, $style, $size) {
+	font-family: $name;
+	font-weight: $weight;
+	font-style: $style;
+	font-size: $size;
+}

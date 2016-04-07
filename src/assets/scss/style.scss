@@ -1,0 +1,400 @@
+@import "_config.scss";
+
+/* reset */
+
+*, *:before, *:after {
+	box-sizing: border-box;
+}
+
+html, body {
+	@extend %relative-zero;
+	font-size: 100%;
+}
+
+@keyframes fadeIn {
+	from {
+		opacity: 0;
+	} to {
+		opacity: 1;
+	}
+}
+
+body {
+	background-color: $yellow;
+	background: linear-gradient(to bottom right, darken($yellow, 10%), $yellow);
+	animation: fadeIn 1s linear;
+}
+
+
+/* header */
+
+#header {
+	@extend %relative-zero;
+
+	&:before {
+		content: '';
+		@extend %relative-zero;
+		display: block;
+		height: 200px;
+		background: url('../images/flowers.png') repeat;
+		border-bottom: $olive 3px dashed;
+	}
+}
+
+#logo {
+	position: relative;
+	z-index: 2;
+	margin: -225px auto 0;
+	padding: 0;
+	background: url('../images/asclaria.png') center center no-repeat;
+	background-size: 400px;
+	width: 400px;
+	height: 400px;
+}
+
+#site-name, #site-description {
+	display: none;
+}
+
+#main-menu {
+	margin: 0;
+	padding: 0;
+	background-color: $beige;
+	@include font($fontDefault, normal, normal, 0);
+	text-align: center;
+	text-transform: uppercase;
+	line-height: 1;
+
+	ul {
+		@extend %relative-zero;
+		list-style: none;
+
+		li {
+			margin: 0;
+			padding: 0;
+			display: inline-block;
+			font-size: 1rem;
+
+			&:before {
+				content: '';
+				position: relative;
+				z-index: 2;
+				margin: 0 auto;
+				padding: 0;
+				display: block;
+				width: 0px;
+				height: calc(1em + 30px);
+				background-color: $red;
+				transform: skewX(-20deg);
+				transition: all 0.3s ease-in;
+			}
+
+			&:hover:before {
+				width: 100%;
+			}
+		}
+	}
+
+	a {
+		position: relative;
+		z-index: 3;
+		margin: 0;
+		margin-top: calc(-1em - 30px);
+		padding: 15px 40px;
+		display: block;
+		text-decoration: none;
+		color: $white;
+	}
+}
+
+
+/* content */
+
+#content {
+	margin: 0;
+	padding: 0 5% 300px;
+	min-height: 500px;
+	background: url('../images/stretching_cat.png') bottom right no-repeat;
+}
+
+.heading {
+	margin: 0;
+	padding: 0;
+	@include font($fontHeading, normal, normal, 3rem);
+	text-align: center;
+	text-shadow: $white 1px 1px 0;
+	color: $orange;
+
+	&:before, &:after {
+		content: '';
+		padding: 0;
+		display: inline-block;
+		width: 50px;
+		height: 50px;
+		background: url('../images/paw.png') no-repeat;
+	}
+
+	&:before {
+		margin: 0 20px 0 0;
+	}
+
+	&:after {
+		margin: 0 0 0 20px;
+	}
+}
+
+.subheading {
+	margin: 20px auto 0;
+	padding: 0;
+	display: block;
+	@include font($fontDefault, normal, normal, 1.5rem);
+	text-align: center;
+	color: $white;
+	line-height: 1;
+
+	span {
+		padding: 10px;
+		background-color: $orange;
+	}
+}
+
+.projects {
+	margin: 100px auto 0;
+	padding: 50px 5%;
+	width: 960px;
+	max-width: 100%;
+	background-color: $white;
+	box-shadow: $olive 20px 20px 0;
+
+	&:before {
+		content: '';
+		margin: -150px auto 50px;
+		padding: 0;
+		display: block;
+		width: 0;
+		height: 0;
+		border-color: transparent transparent $white transparent;
+		border-width: 50px;
+		border-style: solid;
+	}
+}
+
+.project {
+	margin: 40px 0;
+	padding: 0;
+	text-align: center;
+	line-height: 1.5;
+
+	p {
+		@include font($fontDefault, normal, normal, 1.25rem);
+	}
+}
+
+.project-title {
+	margin: 0;
+	padding: 10px 0;
+	@include font($fontDefault, bold, normal, 1.25rem);
+	text-align: center;
+	text-transform: uppercase;
+	color: $red;
+	line-height: 1;
+
+	span {
+		padding: 0 20px;
+		background-color: $white;
+	}
+
+	&:after {
+		content: '';
+		margin: -0.5em 0 0;
+		padding: 0;
+		display: block;
+		background-color: $olive;
+		width: 100%;
+		height: 2px;
+	}
+}
+
+@keyframes shake {
+	0% {
+		transform: rotate(-10deg);
+	} 50% {
+		transform: rotate(10deg);
+	} 100% {
+		transform: rotate(-10deg);
+	}
+}
+
+.go img:hover, .go img:focus {
+	display: inline-block;
+	animation: shake 0.3s linear backwards;
+}
+
+.article {
+	margin: 100px auto 0;
+	padding: 50px 5%;
+	width: 960px;
+	max-width: 100%;
+	background-color: $white;
+	box-shadow: $olive 20px 20px 0;
+	@include font($fontDefault, normal, normal, 1.25rem);
+	line-height: 1.5;
+
+	&:before {
+		content: '';
+		margin: -150px auto 50px;
+		padding: 0;
+		display: block;
+		width: 0;
+		height: 0;
+		border-color: transparent transparent $white transparent;
+		border-width: 50px;
+		border-style: solid;
+	}
+
+	a {
+		display: inline-block;
+		text-decoration: none;
+		color: $red;
+
+		&:after {
+			content: '';
+			margin: 0;
+			padding: 0;
+			display: block;
+			width: 0%;
+			height: 2px;
+			background-color: $red;
+			transition: all 0.3s ease-in;
+		}
+
+		&:hover:after, &:focus:after {
+			width: 100%;
+		}
+	}
+
+	h2 {
+		margin: 1em 0;
+		padding: 0;
+		display: block;
+		@include font($fontHeading, normal, normal, 2rem);
+		text-align: center;
+		color: $brown;
+		line-height: 1;
+
+		&:after {
+			content: '';
+			margin: -0.5em 0 0;
+			padding: 0;
+			display: block;
+			width: 100%;
+			height: 2px;
+			background-color: $olive;
+		}
+
+		span {
+			padding: 0 10px;
+			background-color: $white;
+		}
+	}
+
+	ul {
+		margin: 1em 0;
+		padding: 0 0 0 1em;
+		list-style: none;
+
+		li {
+			padding-left: 1.5em;
+			background: url('../images/paw.png') top left no-repeat;
+			background-size: 1em;
+		}
+	}
+}
+
+
+/* forms */
+
+.form {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+
+	li {
+		margin: 2em 0;
+		padding: 0;
+	}
+
+	label {
+		margin: 1em 0;
+		padding: 0;
+		display: block;
+		font-weight: bold;
+		color: $red;
+	}
+
+	input, textarea {
+		margin: 0;
+		padding: 10px;
+		display: block;
+		width: 100%;
+		outline: none;
+		border: 5px solid;
+		border-top-color: $olive;
+		border-left-color: $olive;
+		border-right-color: $white;
+		border-bottom-color: $white;
+		background: url('../images/arching_cat.png') no-repeat;
+		background-size: 30px 30px;
+		background-position: bottom right;
+		font: inherit;
+		color: $brown;
+		transition: all 0.3s ease-in;
+
+		&:focus {
+			border-top-color: $beige;
+			border-left-color: $beige;
+		}
+	}
+
+	button {
+		margin: 0 auto;
+		padding: 20px;
+		display: inline-block;
+		cursor: pointer;
+		background-color: $orange;
+		border: none;
+		font: inherit;
+		color: $white;
+		transition: all 0.3s ease-in;
+
+		&:hover, &:focus {
+			background-color: $red;
+		}
+	}
+}
+
+::placeholder {
+	color: $brown;
+}
+
+
+/* footer */
+
+#footer {
+	margin: 0;
+	padding: 20px 5%;
+	background-color: $white;
+	border-top: $olive 3px dashed;
+	@include font($fontDefault, normal, normal, 1rem);
+
+	a {
+		color: $red;
+	}
+}
+
+
+/* extra */
+
+.align-center {
+	text-align: center;
+}
