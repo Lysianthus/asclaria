@@ -24,7 +24,7 @@
 			</div> <!-- .project -->
 			<div class="project">
 				<h2 class="project-title"><span>Miscellaneous</span></h2>
-				<p>Lysianthus playing around (a.k.a. useless stuff)</p>
+				<p>Here you will find some useful stuff, and some just Lysianthus playing around.</p>
 				<p><a class="go" href="/projects/miscellaneous"><img alt="" src="/assets/images/back_cat.png" /></a></p>
 			</div> <!-- .project -->
 		</div> <!-- .projects -->
