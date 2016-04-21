@@ -3,7 +3,7 @@
 		<p><a href="/about/credits">Credits &amp; Resources</a></p>
 	</footer> <!-- #footer -->
 
-	<script src="assets/js/asclaria.js"></script>
+	<script src="/assets/js/asclaria.js"></script>
 </body>
 
 </html>
