@@ -8,6 +8,11 @@
 		<p class="subheading"><span>Tip: Click the cat to go!</span></p>
 		<div class="projects">
 			<div class="project">
+				<h2 class="project-title"><span>Power Couple</span></h2>
+				<p>Power Couple is a TFL-approved fanlisting for the relationship between Clark Kent/Kal-El of Krypton (Superman) and Diana of Themyscira (Wonder Woman) of DC Comics.</p>
+				<p><a class="go" target="_blank" href="http://superwonder.asclaria.org"><img alt="" src="/assets/images/butt_cat.png" /></a></p>
+			</div> <!-- .project -->
+			<div class="project">
 				<h2 class="project-title"><span>Trust and Faith</span></h2>
 				<p>Trust and Faith is a collaborative fan fiction archive and writing community. It primarily features stories written by fans for fans for the pairing Clark Kent (Superman) &times; Diana of Themyscira (Wonder Woman).</p>
 				<p><a class="go" target="_blank" href="http://smww.asclaria.org"><img alt="" src="/assets/images/butt_cat.png" /></a></p>
