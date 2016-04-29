@@ -1,5 +1,8 @@
-dist
+dist/*
+!dist/css
+!dist/js
 psd
+
 src/assets/.sass-cache
 src/assets/css
 src/assets/images
