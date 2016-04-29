@@ -1,6 +1,6 @@
 dist/*
-!dist/css
-!dist/js
+!dist/assets/css
+!dist/assets/js
 psd
 
 src/assets/.sass-cache
