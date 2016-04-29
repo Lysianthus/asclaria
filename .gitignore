@@ -1,4 +1,4 @@
-dist/*
+dist/*.html
 dist/assets/*
 !dist/assets/css
 !dist/assets/js
