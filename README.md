@@ -24,10 +24,5 @@ Enable Apache `rewrite_module`.
 
 ## Compilation
 
-While editing, compile Sass files by running `sass-watch scss:css` in `src` on the command line to see changes immediately on the browser.
-```
-$ cd src
-$ sass-watch scss:css
-$ cd ..
-```
-Compile via [Packager](https://github.com/Lysianthus/packager). Files will be located in the `dist` folder.
+1. Convert Sass files into CSS files. (This is usually done while editing to see changes live on the browser.)
+2. Compile via [Packager](https://github.com/Lysianthus/packager). Files will be located in the `dist` folder.
