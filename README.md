@@ -22,7 +22,7 @@ Enable Apache `rewrite_module`.
 * npm 3.3+
 * Sass 3.4+
 
-## Compilation
+## Asset Compilation
 
 1. Convert Sass files into CSS files. (This is usually done while editing to see changes live on the browser.)
 2. Compile via [Packager](https://github.com/Lysianthus/packager). Files will be located in the `dist` folder.
