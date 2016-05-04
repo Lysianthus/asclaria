@@ -5,7 +5,7 @@
 
 	<div id="content">
 		<h1 class="heading">Archived Projects</h1>
-		<p class="subheading"><span>Tip: Click the cat to go!</span></p>
+		<p class="subheading"><span>Listed in descending order by date</span></p>
 		<div class="projects">
 			<div class="project">
 				<h2 class="project-title"><span>QT</span></h2>
