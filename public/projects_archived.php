@@ -8,12 +8,16 @@
 		<p class="subheading"><span>Tip: Click the cat to go!</span></p>
 		<div class="projects">
 			<div class="project">
-				<h2 class="project-title"><span>Natura</span></h2>
-				<p>Natura is a geography blog. This was a response to a blog requirement in Lysianthus's Geography 1 class. This blog is now archived.</p>
-			</div> <!-- .project -->
-			<div class="project">
 				<h2 class="project-title"><span>QT</span></h2>
 				<p>QT is a private URL shortener.</p>
+			</div> <!-- .project -->
+			<div class="project">
+				<h2 class="project-title"><span>Study</span></h2>
+				<p>Study is a personal homework tracker for Lysianthus.</p>
+			</div> <!-- .project -->
+			<div class="project">
+				<h2 class="project-title"><span>Natura</span></h2>
+				<p>Natura is a geography blog. This was a response to a blog requirement in Lysianthus's Geography 1 class. This blog is now archived.</p>
 			</div> <!-- .project -->
 			<div class="project">
 				<h2 class="project-title"><span>Here with You</span></h2>
