@@ -18,9 +18,9 @@
 				<p><a class="go" target="_blank" href="http://asclaria.org"><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
 			</div> <!-- .project -->
 			<div class="project">
-				<h2 class="project-title"><span>Lysianthus</span></h2>
-				<p>Lysianthus is a personal homepage. This is her “home base”. Her accounts to other websites as well as her contact information can be found here.</p>
-				<p><a class="go" target="_blank" href="http://lysianthus.xyz"><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
+				<h2 class="project-title"><span>Clydoll</span></h2>
+				<p>Clydoll is Lysianthus’s personal homepage. This is her “home base”. Her accounts to other websites as well as her contact information can be found here.</p>
+				<p><a class="go" target="_blank" href="http://clydoll.me"><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
 			</div> <!-- .project -->
 			<div class="project">
 				<h2 class="project-title"><span>Like Ancient Bruises</span></h2>
@@ -36,11 +36,6 @@
 				<h2 class="project-title"><span>Lumina</span></h2>
 				<p>Lumina is a free web hosting service to open in the future.</p>
 				<p><a class="go" target="_blank" href="http://lumina.asclaria.org"><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
-			</div> <!-- .project -->
-			<div class="project">
-				<h2 class="project-title"><span>Natura</span></h2>
-				<p>Natura is a geography blog. This was a response to a blog requirement in Lysianthus's Geography 1 class. This blog is now archived.</p>
-				<p><a class="go" target="_blank" href="http://natura.clydoll.me"><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
 			</div> <!-- .project -->
 		</div> <!-- .projects -->
 	</div> <!-- #content -->
