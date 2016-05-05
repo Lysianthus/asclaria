@@ -2,6 +2,7 @@ dist/*.html
 dist/assets/*
 !dist/assets/css
 !dist/assets/js
+node_modules
 psd
 src/assets/*
 !src/assets/js
