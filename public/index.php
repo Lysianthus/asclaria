@@ -30,7 +30,7 @@
 			<div class="project">
 				<h2 class="project-title"><span>Archived</span></h2>
 				<p>Here are projects once alive in the past, but now kept in the cabinets.</p>
-				<p><a class="go" href="/projects/archived"><img alt="" src="/assets/images/back_cat.png" /></a></p>
+				<p><a class="go" href="/projects/archived"><img alt="" src="/assets/images/arching_cat.png" /></a></p>
 			</div> <!-- .project -->
 		</div> <!-- .projects -->
 	</div> <!-- #content -->

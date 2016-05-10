@@ -335,18 +335,19 @@ body {
 
 	input, textarea {
 		margin: 0;
-		padding: 10px;
+		padding: 10px 0;
 		display: block;
 		width: 100%;
 		outline: none;
-		border: 5px solid;
-		border-top-color: $olive;
-		border-left-color: $olive;
-		border-right-color: $white;
-		border-bottom-color: $white;
-		background: url('../images/arching_cat.png') no-repeat;
-		background-size: 30px 30px;
-		background-position: bottom right;
+		border: none;
+		border-bottom: $olive 5px solid;
+		//border-top-color: $olive;
+		//border-left-color: $olive;
+		//border-right-color: $white;
+		//border-bottom-color: $white;
+		//background: url('../images/arching_cat.png') no-repeat;
+		//background-size: 30px 30px;
+		//background-position: bottom right;
 		font: inherit;
 		color: $brown;
 		transition: all 0.3s ease-in;
