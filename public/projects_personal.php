@@ -23,16 +23,6 @@
 				<p><a class="go" target="_blank" href="http://clydoll.me"><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
 			</div> <!-- .project -->
 			<div class="project">
-				<h2 class="project-title"><span>Like Ancient Bruises</span></h2>
-				<p>Like Ancient Bruises is Lysianthus’s personal journal. This is where she writes down every memorable and important detail in her life in a more personal way. This journal is locked to friends only.</p>
-				<p><a class="go" target="_blank" href="http://aprilclydel-ac.livejournal.com"><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
-			</div> <!-- .project -->
-			<div class="project">
-				<h2 class="project-title"><span>My Knightly Senses Are Tingling</span></h2>
-				<p>Irrelevant title. Welcome yourself to the multifandom blog of an obsessive fangirl. Expect nonsense and at the same time a lot of spoilers.</p>
-				<p><a class="go" target="_blank" href="http://knightingling.clydoll.me"><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
-			</div> <!-- .project -->
-			<div class="project">
 				<h2 class="project-title"><span>Lumina</span></h2>
 				<p>Lumina is a free web hosting service to open in the future.</p>
 				<p><a class="go" target="_blank" href="http://lumina.asclaria.org"><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
