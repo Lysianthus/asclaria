@@ -19,13 +19,16 @@
 			<h2><span>Parting Words</span></h2>
 			<p>If you want to talk, you can easily do that by hopping on the <a href="/contact">contact form</a>. If you want more of me, see the links below!</p>
 			<ul>
+				<li><a target="_blank" href="https://clydoll.me">Personal Homepage</a></li>
 				<li><a target="_blank" href="http://twitter.com/clydoll">Twitter</a></li>
 				<li><a target="_blank" href="http://knightingling.tumblr.com">Tumblr</a></li>
 				<li><a target="_blank" href="http://last.fm/user/knightingling">Last.fm</a></li>
-				<li><a target="_blank" href="http://aprilclydel-ac.livejournal.com">LiveJournal</a></li>
 				<li><a target="_blank" href="http://archiveofourown.org/users/aretaic">Archive of Our Own</a></li>
-				<li><a target="_blank" href="http://www.fanfiction.net/~aretaic">FanFiction</a></li>
+				<li><a target="_blank" href="http://www.fanfiction.net/~aretaic">FanFiction.Net</a></li>
 				<li><a target="_blank" href="http://lysianthus.deviantart.com">DeviantArt</a></li>
+				<li><a target="_blank" href="http://aprilclydel-ac.livejournal.com">LiveJournal</a></li>
+				<li><a target="_blank" href="http://github.com/Lysianthus">Github</a></li>
+				<li><a target="_blank" href="http://keybase.io/lysianthus">Keybase</a></li>
 			</ul>
 		</article> <!-- .article -->
 	</div> <!-- #content -->
