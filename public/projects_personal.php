@@ -24,7 +24,7 @@
 			</div> <!-- .project -->
 			<div class="project">
 				<h2 class="project-title"><span>Paper Carvings</span></h2>
-				<p>Paper Carvings is a personal blog of introspetion and a character study.</p>
+				<p>Paper Carvings is a personal blog of introspection and a character study.</p>
 				<p><a class="go" target="_blank" href="https://papercarvings.clydoll.me"><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
 			</div> <!-- .project -->
 			<div class="project">
