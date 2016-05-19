@@ -23,6 +23,11 @@
 				<p><a class="go" target="_blank" href="https://clydoll.me"><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
 			</div> <!-- .project -->
 			<div class="project">
+				<h2 class="project-title"><span>Paper Carvings</span></h2>
+				<p>Paper Carvings is a personal blog of introspetion and a character study.</p>
+				<p><a class="go" target="_blank" href="https://papercarvings.clydoll.me"><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
+			</div> <!-- .project -->
+			<div class="project">
 				<h2 class="project-title"><span>Clydl</span></h2>
 				<p>Clydl is a web development portfolio.</p>
 				<p><a class="go" target="_blank" href="https://clydl.xyz"><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
