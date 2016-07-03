@@ -14,7 +14,6 @@
 				<li><a target="_blank" href="http://auldrant.org">Auldrant</a></li>
 				<li><a target="_blank" href="http://azurelight.net">Azure Light</a></li>
 				<li><a target="_blank" href="http://besaid.org">Besaid</a></li>
-				<li><a target="_blank" href="http://blizzara.org">Blizzara</a></li>
 				<li><a target="_blank" href="http://celestialis.com">Celestialis</a></li>
 				<li><a target="_blank" href="http://cuite.org">Cuite</a></li>
 				<li><a target="_blank" href="http://eternal-wings.net">Eternal Wings</a></li>
