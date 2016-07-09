@@ -148,14 +148,17 @@ body {
 	margin: 20px auto 0;
 	padding: 0;
 	display: block;
-	@include font($fontDefault, normal, normal, 1.5rem);
+	@include font($fontDefault, bold, normal, 1.5rem);
 	text-align: center;
-	color: $white;
+	color: $orange;
 	line-height: 1;
 
 	span {
 		padding: 10px;
-		background-color: $orange;
+		display: inline-block;
+		border: $orange 3px solid;
+		//border-bottom: $orange 2px solid;
+		//background-color: $orange;
 	}
 }
 
