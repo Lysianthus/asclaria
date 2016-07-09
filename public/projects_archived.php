@@ -18,6 +18,7 @@
 			<div class="project">
 				<h2 class="project-title"><span>Natura</span></h2>
 				<p>Natura is a geography blog. This was a response to a blog requirement in Lysianthus's Geography 1 class. This blog is now archived.</p>
+				<p><a class="go" target="_blank" href="http://natura.clydoll.me"><img alt="" src="/assets/images/arching_cat.png" /></a></p>
 			</div> <!-- .project -->
 			<div class="project">
 				<h2 class="project-title"><span>Here with You</span></h2>
