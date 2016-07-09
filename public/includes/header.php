@@ -21,7 +21,7 @@
 
 	<link href='https://fonts.googleapis.com/css?family=Karla:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
 	<link rel="shortcut icon" href="/assets/images/favicon.ico?v=4.0" />
-	<link rel="stylesheet" href="/assets/css/asclaria-bb1de35f1e.css">
+	<link rel="stylesheet" href="/assets/css/asclaria-f343c26be6.css">
 </head>
 
 <body>
