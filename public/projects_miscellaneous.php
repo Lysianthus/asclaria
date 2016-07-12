@@ -19,7 +19,7 @@
 			</div> <!-- .project -->
 			<div class="project">
 				<h2 class="project-title"><span>Archives</span></h2>
-				<p></p>
+				<p>Archives is the place for all things past.</p>
 				<p><a class="go" target="_blank" href="http://archives.asclaria.org"><img alt="" src="/assets/images/back_cat.png" /></a></p>
 			</div> <!-- .project -->
 			<div class="project">
