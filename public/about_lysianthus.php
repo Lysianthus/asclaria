@@ -3,7 +3,7 @@
 	include 'includes/header.php';
 ?>
 
-	<div id="content">
+	<main id="content">
 		<h1 class="heading">Lysianthus</h1>
 		<article class="article">
 			<h2><span>Not A Wonder Woman</span></h2>
@@ -31,6 +31,6 @@
 				<li><a target="_blank" href="http://keybase.io/lysianthus">Keybase</a></li>
 			</ul>
 		</article> <!-- .article -->
-	</div> <!-- #content -->
+	</main> <!-- #content -->
 
 <?php include 'includes/footer.php'; ?>

@@ -3,35 +3,41 @@
 	include 'includes/header.php';
 ?>
 
-	<div id="content">
+	<main id="content">
 		<h1 class="heading">Contact</h1>
 		<article class="article">
 <?php
-if (isset($_POST['contact'])) {
-	$security = $_POST['security'];
 
-	if ($security == 'rats') {
-		$name = stripslashes($_POST['name']);
-		$email = $_POST['email'];
-		$url = $_POST['url'];
-		$subject = stripslashes($_POST['subject']);
-		$message = stripslashes($_POST['message']);
+		if (isset($_POST['contact'])) :
+			$security = $_POST['security'];
 
-		$to = 'hello@asclaria.org';
-		$subj = "[Asclaria] $subject";
-		$body = "Name: $name\nE-mail address: $email\nWebsite: $url\n\nMessage:\n\n$message\n\n---\n\nThis message was sent through the contact form on Asclaria.";
-		$header = "From: $name <bot@asclaria.org>";
+			if ($security == 'rats') :
+				$name = stripslashes($_POST['name']);
+				$email = $_POST['email'];
+				$url = $_POST['url'];
+				$subject = stripslashes($_POST['subject']);
+				$message = stripslashes($_POST['message']);
 
-		mail($to, $subj, $body, $header);
+				$to = 'hello@asclaria.org';
+				$subj = "[Asclaria] $subject";
+				$body = "Name: $name\nE-mail address: $email\nWebsite: $url\n\nMessage:\n\n$message\n\n---\n\nThis message was sent through the contact form on Asclaria.";
+				$header = "From: $name <bot@asclaria.org>";
+
+				mail($to, $subj, $body, $header);
+
 ?>
 			<p>Your message has been sent successfully. Thank you so much for your time. Hopefully, you will receive a reply within the week. Have a great day!</p>
 <?php
-	} else {
+
+			else :
+
 ?>
 			<p>Something went wrong. Maybe you're not human?</p>
 <?php
-	}
-}
+
+			endif;
+		endif;
+
 ?>
 			<p>Use this contact form to send me whatever!</p>
 			<p>Marked (*) fields are required.</p>
@@ -67,6 +73,6 @@ if (isset($_POST['contact'])) {
 				</ol>
 			</form>
 		</article> <!-- .article -->
-	</div> <!-- #content -->
+	</main> <!-- #content -->
 
 <?php include 'includes/footer.php'; ?>

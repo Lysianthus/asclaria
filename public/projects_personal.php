@@ -3,7 +3,7 @@
 	include 'includes/header.php';
 ?>
 
-	<div id="content">
+	<main id="content">
 		<h1 class="heading">Personal Projects</h1>
 		<p class="subheading"><span>Tip: Click the cat to go!</span></p>
 		<div class="projects">
@@ -38,6 +38,6 @@
 				<p><a class="go" target="_blank" href="http://lumina.asclaria.org"><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
 			</div> <!-- .project -->
 		</div> <!-- .projects -->
-	</div> <!-- #content -->
+	</main> <!-- #content -->
 
 <?php include 'includes/footer.php'; ?>

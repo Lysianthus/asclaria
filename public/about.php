@@ -3,7 +3,7 @@
 	include 'includes/header.php';
 ?>
 
-	<div id="content">
+	<main id="content">
 		<h1 class="heading">About</h1>
 		<article class="article">
 			<h2><span>Hello!</span></h2>
@@ -32,6 +32,6 @@
 			<p>Browse the network to be enlightened.</p>
 			<p>Lastly, Asclaria is generously hosted by <a target="_blank" href="http://three-words.net">Three-Words</a>.</p>
 		</article> <!-- .article -->
-	</div> <!-- #content -->
+	</main> <!-- #content -->
 
 <?php include 'includes/footer.php'; ?>

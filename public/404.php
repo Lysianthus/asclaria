@@ -3,7 +3,7 @@
 	include 'includes/header.php';
 ?>
 
-	<div id="content">
+	<main id="content">
 		<h1 class="heading">404 Not Found</h1>
 		<article class="article">
 			<h2><span>Sorry!</span></h2>
@@ -24,6 +24,6 @@
 				<li>Report this problem to Lysianthus via <a href="http://asclaria.org/contact">contact</a>.</li>
 			</ul>
 		</article> <!-- .article -->
-	</div> <!-- #content -->
+	</main> <!-- #content -->
 
 <?php include 'includes/footer.php'; ?>

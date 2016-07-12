@@ -3,7 +3,7 @@
 	include 'includes/header.php';
 ?>
 
-	<div id="content">
+	<main id="content">
 		<h1 class="heading">Linkage</h1>
 		<article class="article">
 			<h2><span>Admired</span></h2>
@@ -64,6 +64,6 @@
 			</p>
 			<p>Thank you!</p>
 		</article> <!-- .article -->
-	</div> <!-- #content -->
+	</main> <!-- #content -->
 
 <?php include 'includes/footer.php'; ?>

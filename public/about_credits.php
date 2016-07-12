@@ -3,7 +3,7 @@
 	include 'includes/header.php';
 ?>
 
-	<div id="content">
+	<main id="content">
 		<h1 class="heading">Credits &amp; Resources</h1>
 		<article class="article">
 			<p>Special thanks to these sources whose works I have used in making this website:</p>
@@ -16,6 +16,6 @@
 			</ul>
 			<p>Many thanks!</p>
 		</article> <!-- .article -->
-	</div> <!-- #content -->
+	</main> <!-- #content -->
 
 <?php include 'includes/footer.php'; ?>

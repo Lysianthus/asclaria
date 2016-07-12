@@ -3,7 +3,7 @@
 	include 'includes/header.php';
 ?>
 
-	<div id="content">
+	<main id="content">
 		<h1 class="heading">500 Internal Server Error</h1>
 		<article class="article">
 			<h2><span>Sorry!</span></h2>
@@ -23,6 +23,6 @@
 			</ul>
 			<p>If you have come upon this error <u>more than once</u>, it is <em>strongly</em> recommended that you report this problem to Lysianthus as soon as possible. This is a critical error that if not solved, it might affect not only this page, but all of the pages in the directory or server.</p>
 		</article> <!-- .article -->
-	</div> <!-- #content -->
+	</main> <!-- #content -->
 
 <?php include 'includes/footer.php'; ?>

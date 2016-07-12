@@ -3,7 +3,7 @@
 	include 'includes/header.php';
 ?>
 
-	<div id="content">
+	<main id="content">
 		<h1 class="heading">Archived Projects</h1>
 		<p class="subheading"><span>Listed in descending order by date</span></p>
 		<div class="projects">
@@ -25,6 +25,6 @@
 				<p>Here with You is a fanlisting for the relationship between Keisaku Satou and Margery Daw from the <cite>Shakugan no Shana</cite> franchise.</p>
 			</div> <!-- .project -->
 		</div> <!-- .projects -->
-	</div> <!-- #content -->
+	</main> <!-- #content -->
 
 <?php include 'includes/footer.php'; ?>

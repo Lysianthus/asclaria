@@ -3,7 +3,7 @@
 	include 'includes/header.php';
 ?>
 
-	<div id="content">
+	<main id="content">
 		<h1 class="heading">Joined Cliques</h1>
 		<article class="article">
 			<h2><span>Claims</span></h2>
@@ -21,6 +21,6 @@
 				<a target="_blank" href="http://samurai.genkigirl.net"><img alt="" src="/assets/images/ronin.png" /></a>
 			</p>
 		</article> <!-- .article -->
-	</div> <!-- #content -->
+	</main> <!-- #content -->
 
 <?php include 'includes/footer.php'; ?>

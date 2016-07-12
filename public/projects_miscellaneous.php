@@ -3,7 +3,7 @@
 	include 'includes/header.php';
 ?>
 
-	<div id="content">
+	<main id="content">
 		<h1 class="heading">Miscellaneous Projects</h1>
 		<p class="subheading"><span>Tip: Click the cat to go!</span></p>
 		<div class="projects">
@@ -16,6 +16,11 @@
 				<h2 class="project-title"><span>Nyaro!</span></h2>
 				<p>Nyaro is a temporary file storage service.</p>
 				<p><a class="go" target="_blank" href="http://nyaro.ga"><img alt="" src="/assets/images/back_cat.png" /></a></p>
+			</div> <!-- .project -->
+			<div class="project">
+				<h2 class="project-title"><span>Archives</span></h2>
+				<p></p>
+				<p><a class="go" target="_blank" href="http://archives.asclaria.org"><img alt="" src="/assets/images/back_cat.png" /></a></p>
 			</div> <!-- .project -->
 			<div class="project">
 				<h2 class="project-title"><span>Gifts</span></h2>
@@ -33,6 +38,6 @@
 				<p><a class="go" target="_blank" href="http://th-hq.asclaria.org"><img alt="" src="/assets/images/back_cat.png" /></a></p>
 			</div> <!-- .project -->
 		</div> <!-- .projects -->
-	</div> <!-- #content -->
+	</main> <!-- #content -->
 
 <?php include 'includes/footer.php'; ?>
