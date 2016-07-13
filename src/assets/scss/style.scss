@@ -344,20 +344,12 @@ body {
 		outline: none;
 		border: none;
 		border-bottom: $olive 5px solid;
-		//border-top-color: $olive;
-		//border-left-color: $olive;
-		//border-right-color: $white;
-		//border-bottom-color: $white;
-		//background: url('../images/arching_cat.png') no-repeat;
-		//background-size: 30px 30px;
-		//background-position: bottom right;
 		font: inherit;
 		color: $brown;
 		transition: all 0.3s ease-in;
 
 		&:focus {
-			border-top-color: $beige;
-			border-left-color: $beige;
+			border-bottom-color: $beige;
 		}
 	}
 
@@ -366,6 +358,7 @@ body {
 		padding: 20px;
 		display: inline-block;
 		cursor: pointer;
+		outline: none;
 		background-color: $orange;
 		border: none;
 		font: inherit;
