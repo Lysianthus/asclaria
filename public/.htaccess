@@ -1,8 +1,8 @@
 RewriteEngine on
 
-RewriteRule ^about/([^/]+)$ about_$1.php [L]
-RewriteRule ^projects/([^/]+)$ projects_$1.php [L]
-RewriteRule ^extras/([^/]+)$ extras_$1.php [L]
+RewriteRule ^about/([^/]+)/?$ about_$1.php [L]
+RewriteRule ^projects/([^/]+)/?$ projects_$1.php [L]
+RewriteRule ^extras/([^/]+)/?$ extras_$1.php [L]
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
