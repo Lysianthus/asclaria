@@ -8,6 +8,10 @@
 		<p class="subheading"><span>Listed in descending order by date</span></p>
 		<div class="projects">
 			<div class="project">
+				<h2 class="project-title"><span>Nyaro!</span></h2>
+				<p>Nyaro is a temporary file storage service.</p>
+			</div> <!-- .project -->
+			<div class="project">
 				<h2 class="project-title"><span>QT</span></h2>
 				<p>QT is a private URL shortener.</p>
 			</div> <!-- .project -->
