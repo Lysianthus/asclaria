@@ -25,8 +25,6 @@
 				<li><a target="_blank" href="http://last.fm/user/knightingling">Last.fm</a></li>
 				<li><a target="_blank" href="http://archiveofourown.org/users/aretaic">Archive of Our Own</a></li>
 				<li><a target="_blank" href="http://www.fanfiction.net/~aretaic">FanFiction.Net</a></li>
-				<li><a target="_blank" href="http://lysianthus.deviantart.com">DeviantArt</a></li>
-				<li><a target="_blank" href="http://aprilclydel-ac.livejournal.com">LiveJournal</a></li>
 				<li><a target="_blank" href="http://github.com/Lysianthus">Github</a></li>
 				<li><a target="_blank" href="http://keybase.io/lysianthus">Keybase</a></li>
 			</ul>
