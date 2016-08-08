@@ -19,12 +19,12 @@
 			<h2><span>Parting Words</span></h2>
 			<p>If you want to talk, you can easily do that by hopping on the <a href="/contact">contact form</a>. If you want more of me, see the links below!</p>
 			<ul>
-				<li><a target="_blank" href="http://lysianth.us">Personal Homepage</a></li>
 				<li><a target="_blank" href="http://twitter.com/clydoll">Twitter</a></li>
 				<li><a target="_blank" href="http://knightingling.tumblr.com">Tumblr</a></li>
 				<li><a target="_blank" href="http://last.fm/user/knightingling">Last.fm</a></li>
+				<li><a target="_blank" href="http://letterboxd.com/Lysianthus/">Letterboxd</a></li>
 				<li><a target="_blank" href="http://archiveofourown.org/users/aretaic">Archive of Our Own</a></li>
-				<li><a target="_blank" href="http://www.fanfiction.net/~aretaic">FanFiction.Net</a></li>
+				<li><a target="_blank" href="http://www.fanfiction.net/u/2155870/">FanFiction.Net</a></li>
 				<li><a target="_blank" href="http://github.com/Lysianthus">Github</a></li>
 				<li><a target="_blank" href="http://keybase.io/lysianthus">Keybase</a></li>
 			</ul>
