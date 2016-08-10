@@ -18,9 +18,9 @@
 				<p><a class="go" target="_blank" href="http://archives.asclaria.org"><img alt="" src="/assets/images/back_cat.png" /></a></p>
 			</div> <!-- .project -->
 			<div class="project">
-				<h2 class="project-title"><span>Nyaro!</span></h2>
-				<p>Nyaro is a temporary file storage service.</p>
-				<p><a class="go" target="_blank" href="http://nyaro.clydoll.me"><img alt="" src="/assets/images/back_cat.png" /></a></p>
+				<h2 class="project-title"><span>Manila</span></h2>
+				<p>Manila is a temporary file storage service.</p>
+				<p><a class="go" target="_blank" href="http://manila.asclaria.org"><img alt="" src="/assets/images/back_cat.png" /></a></p>
 			</div> <!-- .project -->
 			<div class="project">
 				<h2 class="project-title"><span>Gifts</span></h2>
