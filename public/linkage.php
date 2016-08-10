@@ -16,6 +16,7 @@
 				<li><a target="_blank" href="http://besaid.org">Besaid</a></li>
 				<li><a target="_blank" href="http://celestialis.com">Celestialis</a></li>
 				<li><a target="_blank" href="http://cuite.org">Cuite</a></li>
+				<li><a target="_blank" href="http://erzadel.net">Erzadel</a></li>
 				<li><a target="_blank" href="http://eternal-wings.net">Eternal Wings</a></li>
 				<li><a target="_blank" href="http://ethelion.net">Ethelion</a></li>
 				<li><a target="_blank" href="http://kyou.nu">Kyou</a></li>
