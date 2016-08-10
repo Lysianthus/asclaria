@@ -32,6 +32,7 @@
 			<li><a href="/extras">Extras</a></li>
 			<li><a href="/linkage">Linkage</a></li>
 			<li><a href="/contact">Contact</a></li>
+			<li><a href="https://0.asclaria.org">Blog</a></li>
 			<li><a target="_blank" href="https://twitter.com/asclaria">Twitter</a></li>
 		</ul>
 	</nav> <!-- #main-menu -->

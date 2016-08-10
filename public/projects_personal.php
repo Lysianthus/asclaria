@@ -33,6 +33,11 @@
 				<p><a class="go" target="_blank" href="http://clydl.xyz"><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
 			</div> <!-- .project -->
 			<div class="project">
+				<h2 class="project-title"><span>0/Zero</span></h2>
+				<p>0/Zero is an updates blog for Asclaria.</p>
+				<p><a class="go" target="_blank" href="http://0.asclaria.org"><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
+			</div> <!-- .project -->
+			<div class="project">
 				<h2 class="project-title"><span>Lumina</span></h2>
 				<p>Lumina is a free web hosting service to open in the future.</p>
 				<p><a class="go" target="_blank" href="http://lumina.asclaria.org"><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
