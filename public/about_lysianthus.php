@@ -11,7 +11,7 @@
 			<p>And to continue this about me page, here are five interesting facts about me:</p>
 			<ol>
 				<li>I’m near-sighted. I wear glasses with grade 1.75.</li>
-				<li>I’m into personality types! I test as a Ni-Fe-Ti-Se person; I don’t know if I’m a 4, 6, or 9; and I’m somewhere between phlegmatic and melancholic.</li>
+				<li>I’m into personality types! I test as a Ni-Fe-Ti-Se person; I don’t know if I’m a 4 or 9 (but I’m leaning towards 9); and I’m somewhere between phlegmatic and melancholic.</li>
 				<li>I am really short. I’m less than 5 feet!</li>
 				<li>My favorite fruit is the rambutan.</li>
 				<li>My wildest yet impossible dream is to become a person with multiple identities!</li>
