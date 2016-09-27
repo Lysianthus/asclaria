@@ -10,9 +10,9 @@
 			<p>Hi! I go by Lysianthus. I’m presently (prime number between 18 and 23) years old. I was born and still live in the Pearl of the Orient Seas. I am a materials engineering student in the morning, a fake psychologist in the afternoon, and a hobbyist web designer-developer in the evening. I am a closet fangirl and an unapologetic shipper.</p>
 			<p>And to continue this about me page, here are five interesting facts about me:</p>
 			<ol>
-				<li>I’m near-sighted. I wear glasses with grade 1.75.</li>
+				<li>I’m near-sighted.</li>
 				<li>I’m into personality types! I test as a Ni-Fe-Ti-Se person; I don’t know if I’m a 4 or 9 (but I’m leaning towards 9); and I’m somewhere between phlegmatic and melancholic.</li>
-				<li>I am really short. I’m less than 5 feet!</li>
+				<li>I am teeny-tiny!</li>
 				<li>My favorite fruit is the rambutan.</li>
 				<li>My wildest yet impossible dream is to become a person with multiple identities!</li>
 			</ol>

@@ -7,7 +7,7 @@
 		<h1 class="heading">About</h1>
 		<article class="article">
 			<h2><span>Hello!</span></h2>
-			<p>Welcome to <i>Asclaria</i>, <a href="https://lysianth.us">Lysianthus</a>’s umbrella network. All of her personal websites, cliques, fanlistings, fansites, shrines, tributes, and miscellaneous projects are under this umbrella.</p>
+			<p>Welcome to <i>Asclaria</i>, <a href="/about/lysianthus">Lysianthus</a>’s umbrella network. All of her personal websites, cliques, fanlistings, fansites, shrines, tributes, and miscellaneous projects are under this umbrella.</p>
 			<h2><span>Umbrella? What?</span></h2>
 			<p>Lysianthus decided to call Asclaria an &ldquo;umbrella&rdquo; network, because it does exactly what an umbrella does. It is a thing that &ldquo;includes or contains many different elements or parts&rdquo;. In this context, the elements referred to are Lysianthus’s various online projects.</p>
 			<h2><span>What’s in a name?</span></h2>
