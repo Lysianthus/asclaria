@@ -39,7 +39,7 @@
 		endif;
 
 ?>
-			<p>Use this contact form to send me whatever!</p>
+			<p>Use this contact form to send me whatever! If you prefer direct email, you can send me your love at <a href="mailto:hello@asclaria.org">hello@asclaria.org</a>.</p>
 			<p>Marked (*) fields are required.</p>
 			<form action="#" method="post">
 				<ol class="form">
