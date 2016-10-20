@@ -1,5 +1,5 @@
 <?php
-	$title .= "Asclaria &mdash; Lysianthus's umbrella network";
+	$title .= "Asclaria &mdash; Lysianthus’s umbrella network";
 ?>
 <!DOCTYPE html>
 <html>
@@ -8,14 +8,20 @@
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
 	<meta name="robots" content="index, follow" />
-	<meta name="author" content="April Clydel Velarde" />
-	<meta name="keywords" content="asclaria, umbrella, network, collective, umbrella network, personal websites, websites, cliques, fanlistings, fansites, shrines, tributes, miscellaneous, projects, miscellaneous projects" />
-	<meta name="description" content="Welcome to Asclaria, Lysianthus's umbrella network. All of her personal websites, owned cliques, fanlistings, fansites, shrines, tributes, and miscellaneous projects are under this umbrella." />
+	<meta name="description" content="Welcome to Asclaria, Lysianthus’s umbrella network. All of her personal websites, owned cliques, fanlistings, fansites, shrines, tributes, and miscellaneous projects are under this umbrella." />
+
 	<meta property="og:title" content="Asclaria" />
+	<meta property="og:site_name" content="Asclaria" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="http://asclaria.org" />
-	<meta property="og:image" content="http://asclaria.org/microbutton.png" />
-	<meta property="og:description" content="Welcome to Asclaria, Lysianthus's umbrella network. All of her personal websites, owned cliques, fanlistings, fansites, shrines, tributes, and miscellaneous projects are under this umbrella." />
+	<meta property="og:description" content="Welcome to Asclaria, Lysianthus’s umbrella network. All of her personal websites, owned cliques, fanlistings, fansites, shrines, tributes, and miscellaneous projects are under this umbrella." />
+
+	<meta name="twitter:card" content="Asclaria is Lysianthus’s umbrella network." />
+	<meta name="twitter:site" content="@asclaria" />
+	<meta name="twitter:creator" content="@lysnths" />
+	<meta name="twitter:url" content="https://asclaria.org" />
+	<meta name="twitter:title" content="Affelius — Lysianthus’s Umbrella Network" />
+	<meta name="twitter:description" content="Welcome to Asclaria, Lysianthus’s umbrella network. All of her personal websites, owned cliques, fanlistings, fansites, shrines, tributes, and miscellaneous projects are under this umbrella." />
 
 	<title><?php echo $title ?></title>
 
@@ -37,6 +43,6 @@
 	</nav> <!-- #main-menu -->
 	<header id="header">
 		<h1 id="site-name">Asclaria</h1>
-		<h2 id="site-description">Lysianthus's Umbrella Network</h2>
+		<h2 id="site-description">Lysianthus’s Umbrella Network</h2>
 		<div id="logo"></div>
 	</header> <!-- #header -->
