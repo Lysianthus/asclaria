@@ -11,7 +11,7 @@
 			<p>And to continue this about me page, here are five interesting facts about me:</p>
 			<ol>
 				<li>I’m near-sighted.</li>
-				<li>I’m into personality types! I test as a Ni-Fe-Ti-Se person; I don’t know if I’m a 4 or 9 (but I’m leaning towards 9); and I’m somewhere between phlegmatic and melancholic.</li>
+				<li>I’m into personality types! I test as a Ni-Fe-Ti-Se person and an Enneagram 9; and I’m somewhere between phlegmatic and melancholic.</li>
 				<li>I am teeny-tiny!</li>
 				<li>My favorite fruit is the rambutan.</li>
 				<li>My wildest yet impossible dream is to become a person with multiple identities!</li>
@@ -22,7 +22,6 @@
 				<li><a target="_blank" href="http://lysianth.us">Personal Homepage</a></li>
 				<li><a target="_blank" href="http://twitter.com/lysnths">Twitter</a></li>
 				<li><a target="_blank" href="http://knightingling.tumblr.com">Tumblr</a></li>
-				<li><a target="_blank" href="http://last.fm/user/knightingling">Last.fm</a></li>
 				<li><a target="_blank" href="http://letterboxd.com/Lysianthus/">Letterboxd</a></li>
 				<li><a target="_blank" href="http://archiveofourown.org/users/aretaic">Archive of Our Own</a></li>
 				<li><a target="_blank" href="http://www.fanfiction.net/u/2155870/">FanFiction.Net</a></li>
