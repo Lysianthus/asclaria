@@ -11,7 +11,6 @@
 			<ul>
 				<li><a target="_blank" href="http://aminuet.com">Aminuet</a></li>
 				<li><a target="_blank" href="http://arose.nu">Arose</a></li>
-				<li><a target="_blank" href="http://auldrant.org">Auldrant</a></li>
 				<li><a target="_blank" href="http://azurelight.net">Azure Light</a></li>
 				<li><a target="_blank" href="http://besaid.org">Besaid</a></li>
 				<li><a target="_blank" href="http://celestialis.com">Celestialis</a></li>
