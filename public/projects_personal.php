@@ -22,6 +22,7 @@
 				<p>Lysianthus is Lysianthus’s personal homepage. This is her “home base”. Her accounts to other websites as well as her contact information can be found here.</p>
 				<p><a class="go" target="_blank" href="http://lysianth.us"><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
 			</div> <!-- .project -->
+			<!--
 			<div class="project">
 				<h2 class="project-title"><span>Paper Carvings</span></h2>
 				<p>Paper Carvings is a personal blog of introspection and a character study.</p>
