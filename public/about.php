@@ -30,7 +30,6 @@
 				<li>25% nonsense &mdash; miscellaneous</li>
 			</ul>
 			<p>Browse the network to be enlightened.</p>
-			<p>Lastly, Asclaria is generously hosted by <a target="_blank" href="http://three-words.net">Three-Words</a>.</p>
 		</article> <!-- .article -->
 	</main> <!-- #content -->
 
