@@ -18,6 +18,7 @@
 				<li><a target="_blank" href="http://erzadel.net">Erzadel</a></li>
 				<li><a target="_blank" href="http://eternal-wings.net">Eternal Wings</a></li>
 				<li><a target="_blank" href="http://ethelion.net">Ethelion</a></li>
+				<li><a target="_blank" href="http://ishiryoku.net">Ishiryoku</a></li>
 				<li><a target="_blank" href="http://kyou.nu">Kyou</a></li>
 				<li><a target="_blank" href="http://lenne.nu">Lenne</a></li>
 				<li><a target="_blank" href="http://lets-volt.in">Let's Volt IN</a></li>
