@@ -10,7 +10,7 @@
 			<div class="project">
 				<h2 class="project-title"><span>Spire</span></h2>
 				<p>While all my domains and websites are hosted on the same server, Spire is a subdomain hosted by another server. Spire is my backup status website. If the server all my websites are on goes down, Spire will be the go-to website which will tell you what’s going on and give you updates! Pretty handy, isn’t it?</p>
-				<p><a class="go" target="_blank" href="http://spire.asclaria.org"><img alt="" src="/assets/images/back_cat.png" /></a></p>
+				<p><a class="go" target="_blank" href="http://spire.leprd.space"><img alt="" src="/assets/images/back_cat.png" /></a></p>
 			</div> <!-- .project -->
 			<div class="project">
 				<h2 class="project-title"><span>Archives</span></h2>
