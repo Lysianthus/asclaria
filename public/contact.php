@@ -1,4 +1,5 @@
 <?php
+	require_once '/home/affeli/libraries/swiftmailer/lib/swift_required.php';
 	$title = "Contact | ";
 	include 'includes/header.php';
 ?>
@@ -18,12 +19,27 @@
 				$subject = stripslashes($_POST['subject']);
 				$message = stripslashes($_POST['message']);
 
-				$to = 'hello@asclaria.org';
-				$subj = "[Asclaria] $subject";
-				$body = "Name: $name\nE-mail address: $email\nWebsite: $url\n\nMessage:\n\n$message\n\n---\n\nThis message was sent through the contact form on Asclaria.";
-				$header = "From: $name <bot@asclaria.org>";
+				$body = "<p><b>Name:</b> $name</p>
+<p><b>Email Address:</b> $email</p>
+<p><b>Website:</b> $url</p>
+<p><b>Message:</b></p>
+<p>$message</p>
+<hr />
+<p>This message was sent through the contact form on Asclaria.</p>";
 
-				mail($to, $subj, $body, $header);
+				// Swiftmailer
+
+				$transport = Swift_SmtpTransport::newInstance('mail.affeli.us', 25);
+				$mailer = Swift_Mailer::newInstance($transport);
+
+				$message = Swift_Message::newInstance();
+
+				$message->setSubject("[Asclaria] $subject");
+				$message->setBody($body, 'text/html');
+				$message->setTo('hello@asclaria.org');
+				$message->setFrom(array($email => $name));
+
+				$numSent = $mailer->send($message);
 
 ?>
 			<p>Your message has been sent successfully. Thank you so much for your time. Hopefully, you will receive a reply within the week. Have a great day!</p>
@@ -52,8 +68,8 @@
 						<input name="name" type="text" placeholder="Your amazing name" required />
 					</li>
 					<li>
-						<label>E-mail Address *</label>
-						<input name="email" type="text" placeholder="Your awesome e-mail address" required />
+						<label>Email Address *</label>
+						<input name="email" type="text" placeholder="Your awesome email address" required />
 					</li>
 					<li>
 						<label>Website</label>
