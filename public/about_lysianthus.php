@@ -9,13 +9,13 @@
 			<h2><span>Not A Wonder Woman</span></h2>
 			<p>Hi! I go by Lysianthus. I’m presently (prime number between 18 and 23) years old. I was born and still live in the Pearl of the Orient Seas. I am a materials engineering student in the morning, a fake psychologist in the afternoon, and a hobbyist web designer-developer in the evening. I am a closet fangirl and an unapologetic shipper.</p>
 			<p>And to continue this about me page, here are five interesting facts about me:</p>
-			<ol>
+			<ul>
 				<li>I’m near-sighted.</li>
 				<li>I’m into personality types! I test as a Ni-Fe and an Enneagram 9; and I’m somewhere between phlegmatic and melancholic.</li>
 				<li>I am teeny-tiny!</li>
 				<li>My favorite fruit is the rambutan.</li>
 				<li>My wildest yet impossible dream is to become a person with multiple identities!</li>
-			</ol>
+			</ul>
 			<h2><span>Parting Words</span></h2>
 			<p>If you want to talk, you can easily do that by hopping on the <a href="/contact">contact form</a>. If you want more of me, see the links below!</p>
 			<ul>
