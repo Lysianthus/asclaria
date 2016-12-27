@@ -11,7 +11,7 @@
 			<p>And to continue this about me page, here are five interesting facts about me:</p>
 			<ol>
 				<li>I’m near-sighted.</li>
-				<li>I’m into personality types! I test as a Ni-Fe-Ti-Se person and an Enneagram 9; and I’m somewhere between phlegmatic and melancholic.</li>
+				<li>I’m into personality types! I test as a Ni-Fe and an Enneagram 9; and I’m somewhere between phlegmatic and melancholic.</li>
 				<li>I am teeny-tiny!</li>
 				<li>My favorite fruit is the rambutan.</li>
 				<li>My wildest yet impossible dream is to become a person with multiple identities!</li>
