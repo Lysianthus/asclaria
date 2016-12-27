@@ -18,11 +18,6 @@
 				<p><a class="go" target="_blank" href="http://archives.asclaria.org"><img alt="" src="/assets/images/back_cat.png" /></a></p>
 			</div> <!-- .project -->
 			<div class="project">
-				<h2 class="project-title"><span>Manila</span></h2>
-				<p>Manila is a temporary file storage service.</p>
-				<p><a class="go" target="_blank" href="http://manila.asclaria.org"><img alt="" src="/assets/images/back_cat.png" /></a></p>
-			</div> <!-- .project -->
-			<div class="project">
 				<h2 class="project-title"><span>Gifts</span></h2>
 				<p>Gifts is a subdomain for Lysianthus’s online gifts to her friends. When her gifts are webpages or online materials, this is their home. This subdomain is protected, however.</p>
 				<p><a class="go" target="_blank" href="http://gifts.lysianth.us"><img alt="" src="/assets/images/back_cat.png" /></a></p>
