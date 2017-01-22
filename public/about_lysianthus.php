@@ -11,8 +11,8 @@
 			<p>And to continue this about me page, here are five interesting facts about me:</p>
 			<ul>
 				<li>I’m near-sighted.</li>
-				<li>I’m into personality types! I test as an I*F* and an Enneagram 9; and I’m somewhere between phlegmatic and melancholic.</li>
-				<li>I am teeny-tiny!</li>
+				<li>I’m into personality types! I test as an [Myers-Briggs type kept a secret] and an Enneagram 9; and I’m somewhere between phlegmatic and melancholic.</li>
+				<li>I am probably shorter than you!</li>
 				<li>My favorite fruit is the rambutan.</li>
 				<li>My wildest yet impossible dream is to become a person with multiple identities!</li>
 			</ul>
@@ -21,7 +21,7 @@
 			<ul>
 				<li><a target="_blank" href="http://lysianth.us">Personal Homepage</a></li>
 				<li><a target="_blank" href="http://twitter.com/lysnths">Twitter</a></li>
-				<li><a target="_blank" href="http://knightingling.tumblr.com">Tumblr</a></li>
+				<li><a target="_blank" href="http://whereisthenuance.tumblr.com">Tumblr</a></li>
 				<li><a target="_blank" href="http://letterboxd.com/Lysianthus/">Letterboxd</a></li>
 				<li><a target="_blank" href="http://archiveofourown.org/users/aretaic">Archive of Our Own</a></li>
 				<li><a target="_blank" href="http://www.fanfiction.net/u/2155870/">FanFiction.Net</a></li>
