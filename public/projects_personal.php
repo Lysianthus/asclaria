@@ -28,6 +28,7 @@
 				<p>Paper Carvings is a personal blog of introspection and a character study.</p>
 				<p><a class="go" target="_blank" href="http://papercarvings.lysianth.us"><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
 			</div> <!-- .project -->
+			<!--
 			<div class="project">
 				<h2 class="project-title"><span>Clydl</span></h2>
 				<p>Clydl is a web development portfolio.</p>
@@ -36,7 +37,7 @@
 			<div class="project">
 				<h2 class="project-title"><span>Leprd</span></h2>
 				<p>Leprd is a free web hosting service.</p>
-				<p><a class="go" target="_blank" href="http://leprd.lysianthus.xyz"><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
+				<p><a class="go" target="_blank" href="http://leprd.space"><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
 			</div> <!-- .project -->
 		</div> <!-- .projects -->
 	</main> <!-- #content -->

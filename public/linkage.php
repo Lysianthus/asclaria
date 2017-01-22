@@ -42,7 +42,7 @@
 				<li><a target="_blank" href="http://sohryu.nu">Sohryu</a></li>
 				<li><a target="_blank" href="http://somnus.nu">Somnus</a></li>
 				<li><a target="_blank" href="http://www.sun-cryst.org">Suncryst</a></li>
-				<li><a target="_blank" href="http://sylvarant.net">Sylvarant</a></li>
+				<li><a target="_blank" href="http://sutarodo.net">Sutarodo</a></li>
 				<li><a target="_blank" href="http://valiantknife.org">The Valiant Knife</a></li>
 				<li><a target="_blank" href="http://www.wild-seven.org">Wild Seven</a></li>
 				<li><a target="_blank" href="http://withinmyworld.org">Within My World</a></li>
