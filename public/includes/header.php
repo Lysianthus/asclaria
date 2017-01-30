@@ -18,9 +18,7 @@
 
 	<meta name="twitter:card" content="Asclaria is Lysianthus’s umbrella network." />
 	<meta name="twitter:site" content="@asclaria" />
-	<meta name="twitter:creator" content="@lysnths" />
-	<meta name="twitter:url" content="https://asclaria.org" />
-	<meta name="twitter:title" content="Affelius — Lysianthus’s Umbrella Network" />
+	<meta name="twitter:title" content="Asclaria — Lysianthus’s Umbrella Network" />
 	<meta name="twitter:description" content="Welcome to Asclaria, Lysianthus’s umbrella network. All of her personal websites, owned cliques, fanlistings, fansites, shrines, tributes, and miscellaneous projects are under this umbrella." />
 
 	<title><?php echo $title ?></title>

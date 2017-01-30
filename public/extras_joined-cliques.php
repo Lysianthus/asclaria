@@ -13,7 +13,7 @@
 			<p class="align-center">I'm a <a target="_blank" href="http://pkmn.zeruda.org/clique/"><img alt="" src="/assets/images/water.gif">/<img alt="" src="/assets/images/fairy.gif" /></a> type!</p>
 			<h2><span>All Cliques</span></h2>
 			<p class="align-center">
-				<a target="_blank" href="http://patron.snow-heart.net"><img alt="" src="http://patron.snow-heart.net/imgs/patr03.gif" /></a>
+				<a target="_blank" href="http://patron.snow-heart.net"><img alt="" src="/assets/images/patron.gif" /></a>
 				<a target="_blank" href="http://oceanflare.net/stargazer/"><img alt="" src="/assets/images/stargazer.gif" /></a>
 				<a target="_blank" href="http://ohmydarling.org/food/"><img alt="" src="/assets/images/food.png" /></a>
 				<a target="_blank" href="http://cliques.ruby-wings.net/fight/"><img alt="" src="/assets/images/fight.png" /></a>
