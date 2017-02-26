@@ -16,7 +16,7 @@
 	<meta property="og:url" content="http://asclaria.org" />
 	<meta property="og:description" content="Welcome to Asclaria, Lysianthus’s umbrella network. All of her personal websites, owned cliques, fanlistings, fansites, shrines, tributes, and miscellaneous projects are under this umbrella." />
 
-	<meta name="twitter:card" content="Asclaria is Lysianthus’s umbrella network." />
+	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:site" content="@asclaria" />
 	<meta name="twitter:title" content="Asclaria — Lysianthus’s Umbrella Network" />
 	<meta name="twitter:description" content="Welcome to Asclaria, Lysianthus’s umbrella network. All of her personal websites, owned cliques, fanlistings, fansites, shrines, tributes, and miscellaneous projects are under this umbrella." />
