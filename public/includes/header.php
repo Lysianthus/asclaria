@@ -9,6 +9,7 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
 	<meta name="robots" content="index, follow" />
 	<meta name="description" content="Welcome to Asclaria, Lysianthus’s umbrella network. All of her personal websites, owned cliques, fanlistings, fansites, shrines, tributes, and miscellaneous projects are under this umbrella." />
+	<meta name="theme-color" content="#f8b583" />
 
 	<meta property="og:title" content="Asclaria" />
 	<meta property="og:site_name" content="Asclaria" />
