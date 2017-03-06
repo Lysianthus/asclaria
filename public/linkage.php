@@ -28,6 +28,7 @@
 				<li><a target="_blank" href="http://nightbringer.net">Nightbringer</a></li>
 				<li><a target="_blank" href="http://ohmydarling.org">Oh My Darling</a></li>
 				<li><a target="_blank" href="http://overskill.org">Overskill</a></li>
+				<li><a target="_blank" href="http://papermug.net">Paper Mug</a></li>
 				<li><a target="_blank" href="http://paperscraps.ca">Paper Scraps</a></li>
 				<li><a target="_blank" href="http://piratesboard.net">Pirates Board</a></li>
 				<li><a target="_blank" href="http://potion.nu">Potion</a></li>
