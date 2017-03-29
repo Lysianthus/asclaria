@@ -8,8 +8,8 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^(.*)$ $1.php [L]
 
-ErrorDocument 404 http://asclaria.org/404
-ErrorDocument 403 http://asclaria.org/403
-ErrorDocument 500 http://asclaria.org/500
+ErrorDocument 404 https://asclaria.org/404
+ErrorDocument 403 https://asclaria.org/403
+ErrorDocument 500 https://asclaria.org/500
 
 Options All -Indexes
