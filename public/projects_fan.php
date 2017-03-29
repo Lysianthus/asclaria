@@ -23,6 +23,7 @@
 				<p>This is a comprehensive list of Superman &times; Wonder Woman fan fiction read and collected from all over the internet by various authors.</p>
 				<p><a class="go" target="_blank" href="http://smwwfics.asclaria.org"><img alt="" src="/assets/images/butt_cat.png" /></a></p>
 			</div> <!-- .project -->
+			<!-- 
 			<div class="project">
 				<h2 class="project-title"><span>Canonize</span></h2>
 				<p>Canonize is Lysianthus’s hub of favorite fan fiction for various fandoms. This is where she lists links of her favorite stories for her favorite characters and pairings. These fanfics are so good, she’s shouting, &ldquo;Make them canon!!!&rdquo;</p>
