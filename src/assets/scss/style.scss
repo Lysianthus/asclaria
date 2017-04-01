@@ -192,6 +192,27 @@ body {
 	p {
 		@include font($fontDefault, normal, normal, 1.25rem);
 	}
+
+	a { //copied from .article
+		display: inline-block;
+		text-decoration: none;
+		color: $red;
+
+		&:after {
+			content: '';
+			margin: 0;
+			padding: 0;
+			display: block;
+			width: 0%;
+			height: 2px;
+			background-color: $red;
+			transition: all 0.3s ease-in;
+		}
+
+		&:hover:after, &:focus:after {
+			width: 100%;
+		}
+	}
 }
 
 .project-title {
@@ -226,6 +247,12 @@ body {
 		transform: rotate(10deg);
 	} 100% {
 		transform: rotate(-10deg);
+	}
+}
+
+a.go {
+	&:after {
+		display: none;
 	}
 }
 
