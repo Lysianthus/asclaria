@@ -11,18 +11,18 @@
 	<meta name="description" content="Welcome to Asclaria, Lysianthus’s umbrella network. All of her personal websites, owned cliques, fanlistings, fansites, shrines, tributes, and miscellaneous projects are under this umbrella." />
 	<meta name="theme-color" content="#f8b583" />
 
-	<meta property="og:title" content="Asclaria" />
+	<meta property="og:title" content="<?php echo $title; ?>" />
 	<meta property="og:site_name" content="Asclaria" />
 	<meta property="og:type" content="website" />
-	<meta property="og:url" content="http://asclaria.org" />
+	<meta property="og:url" content="https://asclaria.org" />
 	<meta property="og:description" content="Welcome to Asclaria, Lysianthus’s umbrella network. All of her personal websites, owned cliques, fanlistings, fansites, shrines, tributes, and miscellaneous projects are under this umbrella." />
 
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:site" content="@asclaria" />
-	<meta name="twitter:title" content="Asclaria — Lysianthus’s Umbrella Network" />
+	<meta name="twitter:title" content="<?php echo $title; ?>" />
 	<meta name="twitter:description" content="Welcome to Asclaria, Lysianthus’s umbrella network. All of her personal websites, owned cliques, fanlistings, fansites, shrines, tributes, and miscellaneous projects are under this umbrella." />
 
-	<title><?php echo $title ?></title>
+	<title><?php echo $title; ?></title>
 
 	<link href='https://fonts.googleapis.com/css?family=Karla:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
 	<link rel="shortcut icon" href="/assets/images/favicon.ico?v=4.0" />
