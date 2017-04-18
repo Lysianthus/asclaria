@@ -6,7 +6,7 @@ RewriteRule ^extras/([^/]+)/?$ extras_$1.php [L]
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
-RewriteRule ^(.*)$ $1.php [L]
+RewriteRule ^([a-z]+)/?$ $1.php [L]
 
 ErrorDocument 404 https://asclaria.org/404
 ErrorDocument 403 https://asclaria.org/403

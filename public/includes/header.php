@@ -32,11 +32,11 @@
 <body>
 	<nav id="main-menu">
 		<ul>
-			<li><a href="/about">About</a></li>
+			<li><a href="/about/">About</a></li>
 			<li><a href="/">Projects</a></li>
-			<li><a href="/extras">Extras</a></li>
-			<li><a href="/linkage">Linkage</a></li>
-			<li><a href="/contact">Contact</a></li>
+			<li><a href="/extras/">Extras</a></li>
+			<li><a href="/linkage/">Linkage</a></li>
+			<li><a href="/contact/">Contact</a></li>
 			<li><a target="_blank" href="https://twitter.com/asclaria">Twitter</a></li>
 		</ul>
 	</nav> <!-- #main-menu -->
