@@ -7,7 +7,7 @@
 		<h1 class="heading">Lysianthus</h1>
 		<article class="article">
 			<h2><span>Not A Wonder Woman</span></h2>
-			<p>Hi! I go by Lysianthus. I’m presently (prime number between 18 and 23) years old. I was born and still live in the Pearl of the Orient Seas. I am a materials engineering student in the morning, a fake psychologist in the afternoon, and a hobbyist web designer-developer in the evening. I am a closet fangirl and an unapologetic shipper.</p>
+			<p>Hi! I go by Lysianthus. I’m presently (5 &times; 4) years old. I was born and still live in the Pearl of the Orient Seas. I am a materials engineering student in the morning, a fake psychologist in the afternoon, and a hobbyist web designer-developer in the evening. I am a closet fangirl and an unapologetic shipper.</p>
 			<p>And to continue this about me page, here are five interesting facts about me:</p>
 			<ul>
 				<li>I’m near-sighted.</li>
