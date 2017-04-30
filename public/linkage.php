@@ -17,6 +17,7 @@
 				<a target="_blank" href="http://eternal-wings.net" style="margin: 5px;"><img alt="" src="/assets/images/eternal-wings.png" /></a>
 				<a target="_blank" href="http://ishiryoku.net" style="margin: 5px;"><img alt="" src="/assets/images/ishiryoku.png?v=1" /></a>
 				<a target="_blank" href="http://kyou.nu" style="margin: 5px;"><img alt="" src="/assets/images/kyou.jpg" /></a>
+				<a target="_blank" href="http://lets-volt.in" style="margin: 5px;"><img alt="" src="/assets/images/lets-volt.in.gif" /></a>
 				<a target="_blank" href="http://like-knives.org" style="margin: 5px;"><img alt="" src="/assets/images/like-knives.png" /></a>
 				<a target="_blank" href="http://londonboy.org" style="margin: 5px;"><img alt="" src="/assets/images/londonboy.png" /></a>
 				<a target="_blank" href="http://nightbringer.net" style="margin: 5px;"><img alt="" src="/assets/images/nightbringer.gif" /></a>
