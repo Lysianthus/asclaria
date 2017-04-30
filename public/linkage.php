@@ -57,7 +57,7 @@
 				<img alt="" src="/assets/images/asclaria_200x40_2.png">
 			</p>
 			<p class="align-center">
-				<img alt="" src="/assets/images/asclaria_88x31_1.png">
+				<img alt="" src="/assets/images/asclaria_88x31_1.png?v=1">
 				<img alt="" src="/assets/images/asclaria_88x31_2.png">
 			</p>
 			<p>Thank you!</p>
