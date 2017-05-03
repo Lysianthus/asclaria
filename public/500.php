@@ -19,7 +19,7 @@
 			<p>You can choose from the following options to continue surfing the site:</p>
 			<ul>
 				<li><strong>Report this problem to Lysianthus via <a href="http://asclaria.org/contact">contact</a>.</strong> This error is critical.</li>
-				<li><a href="javascript:history.go(-1)">Go back</a> to the previously accessed page. (You can also press <code>BACKSPACE</code> on your keyboard.)</li>						
+				<li><a href="javascript:history.go(-1)">Go back</a> to the previously accessed page. (You can also press <kbd>BACKSPACE</kbd> or <kbd>ALT + Left Arrow</kbd> on your keyboard.)</li>						
 			</ul>
 			<p>If you have come upon this error <u>more than once</u>, it is <em>strongly</em> recommended that you report this problem to Lysianthus as soon as possible. This is a critical error that if not solved, it might affect not only this page, but all of the pages in the directory or server.</p>
 		</article> <!-- .article -->

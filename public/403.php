@@ -18,7 +18,7 @@
 			<h2><span>What to do now?</span></h2>
 			<p>You can choose from the following options to continue surfing the site:</p>
 			<ul>
-				<li><a href="javascript:history.go(-1)">Go back</a> to the previously accessed page. (You can also press <code>BACKSPACE</code> on your keyboard.)</li>
+				<li><a href="javascript:history.go(-1)">Go back</a> to the previously accessed page. (You can also press <kbd>BACKSPACE</kbd> or <kbd>ALT + Left Arrow</kbd> on your keyboard.)</li>
 				<li>Report this problem to Lysianthus via <a href="http://asclaria.org/contact">contact</a>.</li>
 				<li>Ask for permissions to access this page. (Only do this if you think you <em>should be</em> allowed to access this page.)</li>
 

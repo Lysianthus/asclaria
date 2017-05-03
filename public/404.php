@@ -19,7 +19,7 @@
 			<h2><span>What to do now?</span></h2>
 			<p>You can choose from the following options to continue looking for the page or surfing the site:</p>
 			<ul>
-				<li><a href="javascript:history.go(-1)">Go back</a> to the previously accessed page. (You can also press <code>BACKSPACE</code> on your keyboard.)</li>
+				<li><a href="javascript:history.go(-1)">Go back</a> to the previously accessed page. (You can also press <kbd>BACKSPACE</kbd> or <kbd>ALT + Left Arrow</kbd> on your keyboard.)</li>
 				<li>Visit the <a href="http://asclaria.org">projects</a> page and find the project (website) you are looking for from a list of links.</li>
 				<li>Report this problem to Lysianthus via <a href="http://asclaria.org/contact">contact</a>.</li>
 			</ul>
