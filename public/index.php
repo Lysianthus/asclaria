@@ -27,9 +27,10 @@
 				<p>Here you will find some useful stuff, and some just Lysianthus playing around.</p>
 				<p><a class="go" href="/projects/miscellaneous"><img alt="" src="/assets/images/back_cat.png" /></a></p>
 			</div> <!-- .project -->
+			<!--
 			<div class="project">
 				<h2 class="project-title"><span>Archived</span></h2>
-				<p>Here are projects once alive in the past, but now kept in the cabinets.</p>
+				<p>Here are projects once alive in the past, but now kept in the cabinets. (This is different from the actual <a target="_blank" href="https://archives.asclaria.org">Archives</a>.)</p>
 				<p><a class="go" href="/projects/archived"><img alt="" src="/assets/images/arching_cat.png" /></a></p>
 			</div> <!-- .project -->
 		</div> <!-- .projects -->
