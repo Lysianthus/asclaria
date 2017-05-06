@@ -25,7 +25,7 @@
 			<div class="project">
 				<h2 class="project-title"><span>Verna Flamingo</span></h2>
 				<p>Verna Flamingo is a splash page dedicated to Vera Farmiga. This project is also categorized under <a target="_blank" href="http://th-hq.asclaria.org">Throwaway Projects</a>.</p>
-				<p><a class="go" target="_blank" href="http://verafarmiga.isamotherfucking.ninja"><img alt="" src="/assets/images/butt_cat.png" /></a></p>
+				<p><a class="go" target="_blank" href="https://verna-flamingo.leprd.space"><img alt="" src="/assets/images/butt_cat.png" /></a></p>
 			</div> <!-- .project -->
 			<!-- 
 			<div class="project">
