@@ -47,8 +47,9 @@
 				<a target="_blank" href="http://withinmyworld.org">Within My World</a>
 			</p>
 			<h2><span>Listed At</span></h2>
-			<p class="align-center">
-				<a target="_blank" href="http://smoothsailing.asclaria.org"><img alt="" src="/umbrella/smoothsailing/assets/images/microbutton.png"></a>
+			<p style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap;">
+				<a target="_blank" href="https://smoothsailing.asclaria.org" style="margin: 5px;"><img alt="" src="/umbrella/smoothsailing/assets/images/microbutton.png"></a>
+				<a target="_blank" href="http://yummy.nu" style="margin: 5px;"><img alt="" src="/assets/images/yummy.png"></a>
 			</p>
 			<h2><span>Link to Asclaria</span></h2>
 			<p>If you want to link Asclaria on your website (awesome!!!), you can use the following buttons.</p>
