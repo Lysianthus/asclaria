@@ -14,7 +14,7 @@
 			</div> <!-- .project -->
 			<div class="project">
 				<h2 class="project-title"><span>Inner Buoyancy</span></h2>
-				<p>Inner Buoyancy is a positivity bot that tweets reminders every hour.</p>
+				<p>Inner Buoyancy is a positivity bot that tweets reminders a couple of times a day.</p>
 				<p><a class="go" target="_blank" href="https://twitter.com/InnerBuoyancy"><img alt="" src="/assets/images/fat_cat.png" /></a></p>
 			</div> <!-- .project -->
 			<!-- 
