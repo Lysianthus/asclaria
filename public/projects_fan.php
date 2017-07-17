@@ -20,7 +20,7 @@
 			<div class="project">
 				<h2 class="project-title"><span>VERA FARMIGA EBOOKS</span></h2>
 				<p>a progress in work, and a <a target="_blank" href="https://twitter.com/VeraFarmiga">@VeraFarmiga</a> bot</p>
-				<p><a class="go" target="_blank" href="https://twitter.com/FlamingoVerna"><img alt="" src="/assets/images/butt_cat.png" /></a></p>
+				<p><a class="go" target="_blank" href="https://twitter.com/verafarmigabot"><img alt="" src="/assets/images/butt_cat.png" /></a></p>
 			</div> <!-- .project -->
 			<div class="project">
 				<h2 class="project-title"><span>Verna Flamingo</span></h2>
