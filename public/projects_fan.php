@@ -19,7 +19,7 @@
 			</div> <!-- .project -->
 			<div class="project">
 				<h2 class="project-title"><span>LA NIghtingale</span></h2>
-				<p>LA NIghtingale is a tribute to my favorite singer of all time, <i>Asia’s Nightingale</i>, Lani Misalucha.</p>
+				<p>LA NIghtingale is a tribute by Lysianthus to her favorite singer of all time, <i>Asia’s Nightingale</i>, Lani Misalucha.</p>
 				<p><a class="go" target="_blank" href="https://nightingale.asclaria.org"><img alt="" src="/assets/images/butt_cat.png" /></a></p>
 			</div> <!-- .project -->
 			<div class="project">
