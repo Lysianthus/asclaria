@@ -7,6 +7,7 @@
 		<h1 class="heading">Miscellaneous Projects</h1>
 		<p class="subheading"><span>Tip: Click the cat to go!</span></p>
 		<div class="projects">
+			<!--
 			<div class="project">
 				<h2 class="project-title"><span>Spire</span></h2>
 				<p>While all my domains and websites are hosted on the same server, Spire is a subdomain hosted by another server. Spire is my backup status website. If the server all my websites are on goes down, Spire will be the go-to website which will tell you what’s going on and give you updates! Pretty handy, isn’t it?</p>
