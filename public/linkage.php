@@ -30,6 +30,7 @@
 				<a target="_blank" href="http://redcrown.net" style="margin: 5px;"><img alt="" src="/assets/images/redcrown.png?v=1" /></a>
 				<a target="_blank" href="http://rydia.nu" style="margin: 5px;"><img alt="" src="/assets/images/rydia.png" /></a>
 				<a target="_blank" href="http://shinkirou.net" style="margin: 5px;"><img alt="" src="/assets/images/shinkirou.png" /></a>
+				<a target="_blank" href="http://shinshoku.net" style="margin: 5px;"><img alt="" src="/assets/images/shinshoku.png" /></a>
 				<a target="_blank" href="http://skycrown.org" style="margin: 5px;"><img alt="" src="/assets/images/skycrown.png" /></a>
 				<a target="_blank" href="http://snow-heart.net" style="margin: 5px;"><img alt="" src="/assets/images/snowheart.jpg" /></a>
 				<a target="_blank" href="http://somnus.nu" style="margin: 5px;"><img alt="" src="/assets/images/somnus.png" /></a>
