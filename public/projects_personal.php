@@ -23,6 +23,11 @@
 				<p><a class="go" target="_blank" href="https://lysianth.us"><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
 			</div> <!-- .project -->
 			<div class="project">
+				<h2 class="project-title"><span>Paper Carvings</span></h2>
+				<p>Lysianthus is a personal blog, subtitled &ldquo;Introspection and a Character Study.&rdquo;</p>
+				<p><a class="go" target="_blank" href="https://papercarvings.lysianth.us"><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
+			</div> <!-- .project -->
+			<div class="project">
 				<h2 class="project-title"><span>Leprd</span></h2>
 				<p>Leprd is a free web hosting service.</p>
 				<p><a class="go" target="_blank" href="https://leprd.space"><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
