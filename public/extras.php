@@ -12,6 +12,11 @@
 				<p>Here is a showcase of cliques that Lysianthus joined so far.</p>
 				<p><a class="go" href="/extras/joined-cliques"><img alt="" src="/assets/images/under_cat.png" /></a></p>
 			</div> <!-- .project -->
+			<div class="project">
+				<h2 class="project-title"><span>Names</span></h2>
+				<p>Just my paranoia in action.</p>
+				<p><a class="go" href="/extras/names"><img alt="" src="/assets/images/under_cat.png" /></a></p>
+			</div> <!-- .project -->
 		</div> <!-- .projects -->
 	</main> <!-- #content -->
 

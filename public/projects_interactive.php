@@ -17,6 +17,11 @@
 				<p>Inner Buoyancy is a positivity bot that tweets reminders a couple of times a day.</p>
 				<p><a class="go" target="_blank" href="https://twitter.com/InnerBuoyancy"><img alt="" src="/assets/images/fat_cat.png" /></a></p>
 			</div> <!-- .project -->
+			<div class="project">
+				<h2 class="project-title"><span>Tests</span></h2>
+				<p>Tests is a subdomain for quizzes and tests for personal or external uses.</p>
+				<p><a class="go" target="_blank" href="https://tests.asclaria.org"><img alt="" src="/assets/images/fat_cat.png" /></a></p>
+			</div> <!-- .project -->
 			<!-- 
 			<div class="project">
 				<h2 class="project-title"><span>Deadly Seven</span></h2>

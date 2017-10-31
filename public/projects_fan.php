@@ -17,6 +17,7 @@
 				<p>This is a comprehensive list of Superman &times; Wonder Woman fan fiction read and collected from all over the internet by various authors.</p>
 				<p><a class="go" target="_blank" href="https://smwwfics.asclaria.org"><img alt="" src="/assets/images/butt_cat.png" /></a></p>
 			</div> <!-- .project -->
+			<!--
 			<div class="project">
 				<h2 class="project-title"><span>LA NIghtingale</span></h2>
 				<p>LA NIghtingale is a tribute by Lysianthus to her favorite singer of all time, <i>Asia’s Nightingale</i> and Las Vegas’ <i>Siren of the Strip</i>, Lani Misalucha.</p>
