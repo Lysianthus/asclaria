@@ -22,6 +22,7 @@
 				<li><a target="_blank" href="https://lysianth.us">Personal Homepage</a></li>
 				<li><a target="_blank" href="https://twitter.com/lysnths">Twitter</a></li>
 				<li><a target="_blank" href="http://whereisthenuance.tumblr.com">Tumblr</a></li>
+				<li><a target="_blank" href="https://www.goodreads.com/lysianthus">Goodreads</a></li>
 				<li><a target="_blank" href="https://letterboxd.com/Lysianthus/">Letterboxd</a></li>
 				<li><a target="_blank" href="http://archiveofourown.org/users/aretaic">Archive of Our Own</a></li>
 				<li><a target="_blank" href="https://www.fanfiction.net/u/2155870/">FanFiction.Net</a></li>
