@@ -1,5 +1,5 @@
 <?php
-	require_once '/home/affeli/libraries/swiftmailer/lib/swift_required.php';
+	require_once '/home/asclaria/libraries/swiftmailer/lib/swift_required.php';
 	$title = "Contact | ";
 	include 'includes/header.php';
 ?>
@@ -29,7 +29,7 @@
 
 				// Swiftmailer
 
-				$transport = Swift_SmtpTransport::newInstance('mail.affeli.us', 25);
+				$transport = Swift_SmtpTransport::newInstance('mail.asclaria.org', 25);
 				$mailer = Swift_Mailer::newInstance($transport);
 
 				$message = Swift_Message::newInstance();

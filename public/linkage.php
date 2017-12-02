@@ -43,6 +43,7 @@
 			</p>
 			<p style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
 				<a target="_blank" href="http://arose.nu">Arose</a>
+				<a target="_blank" href="http://chimerical.site">Chimerical</a>
 				<a target="_blank" href="http://erzadel.net">Erzadel</a>
 				<a target="_blank" href="http://lenne.nu">Lenne</a>
 				<a target="_blank" href="http://rigelatin.net">Rigelatin</a>
