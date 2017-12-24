@@ -11,7 +11,7 @@
 			<p>And to continue this about me page, here are five interesting facts about me:</p>
 			<ul>
 				<li>I’m near-sighted.</li>
-				<li>I’m into personality types! I test as an [Myers-Briggs type kept a secret] and an Enneagram 9; and I’m somewhere between phlegmatic and melancholic.</li>
+				<li>I’m into personality typology! In the MBTI, I have the functions Ni-Se and Ti-Fe, I just don’t know in what order. In the Enneagram, I’m a 9w1 with the tritype 954 and instinctual variants self-preservation-social (sp/so). I’m somewhere between phlegmatic and melancholic.</li>
 				<li>I am probably shorter than you!</li>
 				<li>My favorite fruit is the rambutan.</li>
 				<li>My wildest yet impossible dream is to become a person with multiple identities!</li>
