@@ -19,6 +19,9 @@
 				<li>affeli.us</li>
 				<li>asclaria.org</li>
 				<li>lysianth.us</li>
+				<li>leprd.space</li>
+				<li>meowandsparkle.party</li>
+				<li>bouvardia.blue</li>
 			</ul>
 			<p>Each domain is a sub-umbrella.</p>
 			<h2><span>Content Breakdown</span></h2>
