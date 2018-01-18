@@ -19,7 +19,7 @@
 			</div> <!-- .project -->
 			<div class="project">
 				<h2 class="project-title"><span>Interactive</span></h2>
-				<p>Here are interactive communities about topics of all kinds for people of all kinds.</p>
+				<p>Here are interactive websites about topics of all kinds for people of all kinds.</p>
 				<p><a class="go" href="/projects/interactive"><img alt="" src="/assets/images/fat_cat.png" /></a></p>
 			</div> <!-- .project -->
 			<div class="project">
