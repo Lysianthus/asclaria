@@ -22,6 +22,11 @@
 				<p>Tests is a subdomain for quizzes and tests for personal or external uses.</p>
 				<p><a class="go" target="_blank" href="https://tests.asclaria.org"><img alt="" src="/assets/images/fat_cat.png" /></a></p>
 			</div> <!-- .project -->
+			<div class="project">
+				<h2 class="project-title"><span>Chocobear</span></h2>
+				<p>Chocobear is a temporary file hosting service.</p>
+				<p><a class="go" target="_blank" href="https://chocobear.site"><img alt="" src="/assets/images/fat_cat.png" /></a></p>
+			</div> <!-- .project -->
 			<!-- 
 			<div class="project">
 				<h2 class="project-title"><span>Deadly Seven</span></h2>
