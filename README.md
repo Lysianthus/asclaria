@@ -16,7 +16,7 @@ Asclaria is Lysianthus’s umbrella network.
 
 Enable Apache `rewrite_module`.
 
-### Local
+### Development
 
 * Node.js 4.2+
 * npm 3.3+
