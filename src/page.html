@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	<title>Asclaria</title>
+
+	<!-- build:css assets/css/asclaria.css -->
+	<link rel="stylesheet" href="assets/css/style.css" />
+	<!-- endbuild -->
+</head>
+
+<body>
+	<div class="page" id="page">
+		<div class="page__menu">
+			<button id="togglePageMenu" onclick="togglePageMenu();">menu</button>
+			<ul class="page__menu__list" id="page__menu__list">
+				<li><a href="">Home</a></li>
+				<li>
+					<ul>
+						<li><a href="">Personal Projects</a></li>
+						<li><a href="">Fan Projects</a></li>
+						<li><a href="">Interactive Projects</a></li>
+						<li><a href="">Miscellaneous Projects</a></li>
+						<li><a href="">Upcoming Projects</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="">/about</a>
+					<ul>
+						<li><a href="">/about/credits</a></li>
+					</ul>
+				</li>
+				<li><a href="">/linkage</a></li>
+				<li><a href="">/contact</a></li>
+			</ul> <!-- .page__menu__list -->
+		</div> <!-- .page__menu -->
+		<h1 class="page__heading">Credits</h1>
+		<article class="article">
+			<p>Use this contact form to send me whatever! If you prefer direct email, you can send me your love at <a href="mailto:hello@asclaria.org">hello@asclaria.org</a>.</p>
+			<p>Marked (*) fields are required.</p>
+			<form action="#" method="post">
+				<p><b><label>Type &lsquo;star&rsquo; backwards *</label></b></p>
+				<p><input name="security" type="text" placeholder="Hint: rats" required /></p>
+				<p><b><label>Name *</label></b></p>
+				<p><input name="name" type="text" placeholder="Your amazing name" required /></p>
+				<p><b><label>Email Address *</label></b></p>
+				<p><input name="email" type="text" placeholder="Your awesome email address" required /></p>
+				<p><b><label>Website</label></b></p>
+				<p><input name="url" type="text" placeholder="Your spiffy website" /></p>
+				<p><b><label>Subject *</label></b></p>
+				<p><input name="subject" type="text" placeholder="A title to your speech" required /></p>
+				<p><b><label>Message *</label></b></p>
+				<p><textarea name="message" rows="5" placeholder="Tell me your secrets!" required></textarea></p>
+				<p class="apgn-center">
+					<button name="contact"><span class="fa fa-send-o"></span> Send message!</button>
+				</p>
+			</form>
+		</article> <!-- .article -->
+	</div> <!-- .page -->
+
+	<!-- build:js assets/js/asclaria.js -->
+	<script src="assets/js/scripts.js"></script>
+	<script src="assets/js/trackers.js"></script>
+	<!-- endbuild -->
+</body>
+
+</html>
