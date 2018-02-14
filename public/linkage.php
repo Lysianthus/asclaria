@@ -1,12 +1,17 @@
 <?php
-	$title = "Linkage | ";
-	include 'includes/header.php';
+
+$title = "Linkage | ";
+include 'includes/header.php';
+
 ?>
 
-	<main id="content">
-		<h1 class="heading">Linkage</h1>
+	<div class="page" id="page">
+		
+<?php include 'includes/page__menu.php'; ?>
+		
+		<h1 class="page__heading">Linkage</h1>
 		<article class="article">
-			<h2><span>Admired</span></h2>
+			<h2>Admired</h2>
 			<p>Here is a list of websites and networks that I admire! These networks give me so much inspiration. Do check them out!</p>
 			<p style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap;">
 				<a target="_blank" href="http://aminuet.com" style="margin: 5px;"><img alt="" src="/assets/images/aminuet.gif" /></a>
@@ -50,23 +55,38 @@
 				<a target="_blank" href="http://sohryu.nu">Sohryu</a>
 				<a target="_blank" href="http://withinmyworld.org">Within My World</a>
 			</p>
-			<h2><span>Listed At</span></h2>
+			<h2>Listed At</h2>
 			<p style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap;">
 				<a target="_blank" href="https://smoothsailing.asclaria.org" style="margin: 5px;"><img alt="" src="/umbrella/smoothsailing/assets/images/microbutton.png"></a>
 				<a target="_blank" href="http://yummy.nu" style="margin: 5px;"><img alt="" src="/assets/images/yummy.png"></a>
 			</p>
-			<h2><span>Link to Asclaria</span></h2>
+			<h2>Claims</h2>
+			<p style="text-align: center;">Asclaria is guarded by <a target="_blank" href="http://samurai.genkigirl.net"><img alt="Sage of Halo" src="/assets/images/samurai.gif" />, the Sage of Halo</a>.</p>
+			<p style="text-align: center;">Asclaria is under the protection of <a target="_blank" href="http://patron.snow-heart.net">Lady Hestia</a>.</p>
+			<p style="text-align: center;"><a target="_blank" href="http://ohmydarling.org/food/">just can't get enough</a> » Lasagna, baby!</p>
+			<p style="text-align: center;">I'm a <a target="_blank" href="http://pkmn.zeruda.org/clique/"><img alt="" src="/assets/images/water.gif">/<img alt="" src="/assets/images/fairy.gif" /></a> type!</p>
+			<h2>Joined Cliques</h2>
+			<p style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+				<a target="_blank" href="http://patron.snow-heart.net" style="margin: 5px;"><img alt="" src="/assets/images/patron.gif" /></a>
+				<a target="_blank" href="http://oceanflare.net/stargazer/" style="margin: 5px;"><img alt="" src="/assets/images/stargazer.gif" /></a>
+				<a target="_blank" href="http://ohmydarling.org/food/" style="margin: 5px;"><img alt="" src="/assets/images/food.png" /></a>
+				<a target="_blank" href="http://cliques.ruby-wings.net/fight/" style="margin: 5px;"><img alt="" src="/assets/images/fight.png" /></a>
+				<a target="_blank" href="http://pkmn.zeruda.org/clique/" style="margin: 5px;"><img alt="" src="/assets/images/pokemon.gif" /></a>
+				<a target="_blank" href="http://samurai.genkigirl.net" style="margin: 5px;"><img alt="" src="/assets/images/ronin.png" /></a>
+			</p>
+			<h2>Link to Asclaria</h2>
 			<p>If you want to link Asclaria on your website (awesome!!!), you can use the following buttons.</p>
-			<p class="align-center">
+			<p style="text-align: center;">
 				<img alt="" src="/assets/images/asclaria_200x40_1.png">
 				<img alt="" src="/assets/images/asclaria_200x40_2.png">
 			</p>
-			<p class="align-center">
+			<p style="text-align: center;">
 				<img alt="" src="/assets/images/asclaria_88x31_1.png?v=1">
 				<img alt="" src="/assets/images/asclaria_88x31_2.png">
 			</p>
 			<p>Thank you!</p>
 		</article> <!-- .article -->
-	</main> <!-- #content -->
+		
+	</div> <!-- .page -->
 
 <?php include 'includes/footer.php'; ?>

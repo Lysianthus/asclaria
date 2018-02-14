@@ -1,5 +1,7 @@
 <?php
-	$title .= "Asclaria &mdash; Lysianthus’s umbrella network";
+
+$title .= "Asclaria &mdash; Lysianthus’s umbrella network";
+
 ?>
 <!DOCTYPE html>
 <html>
@@ -9,7 +11,7 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
 	<meta name="robots" content="index, follow" />
 	<meta name="description" content="Welcome to Asclaria, Lysianthus’s umbrella network. All of her personal websites, owned cliques, fanlistings, fansites, shrines, tributes, and miscellaneous projects are under this umbrella." />
-	<meta name="theme-color" content="#f8b583" />
+	<meta name="theme-color" content="#A05F91" />
 
 	<meta property="og:title" content="<?php echo $title; ?>" />
 	<meta property="og:site_name" content="Asclaria" />
@@ -24,24 +26,9 @@
 
 	<title><?php echo $title; ?></title>
 
-	<link href='https://fonts.googleapis.com/css?family=Karla:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
-	<link rel="shortcut icon" href="/assets/images/favicon.ico?v=4.0" />
-	<link rel="stylesheet" href="/assets/css/asclaria-e875643ed1.css" />
+	<link rel="icon" type="image/png" href="/assets/images/square_face.png" />
+
+	<link rel="stylesheet" href="/assets/css/asclaria-b776b44f21.css" />
 </head>
 
 <body>
-	<nav id="main-menu">
-		<ul>
-			<li><a href="/about/">About</a></li>
-			<li><a href="/">Projects</a></li>
-			<li><a href="/extras/">Extras</a></li>
-			<li><a href="/linkage/">Linkage</a></li>
-			<li><a href="/contact/">Contact</a></li>
-			<li><a target="_blank" href="https://twitter.com/asclaria">Twitter</a></li>
-		</ul>
-	</nav> <!-- #main-menu -->
-	<header id="header">
-		<h1 id="site-name">Asclaria</h1>
-		<h2 id="site-description">Lysianthus’s Umbrella Network</h2>
-		<div id="logo"></div>
-	</header> <!-- #header -->

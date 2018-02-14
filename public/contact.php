@@ -1,11 +1,17 @@
 <?php
-	require_once '/home/asclaria/libraries/swiftmailer/lib/swift_required.php';
-	$title = "Contact | ";
-	include 'includes/header.php';
+
+require_once '/home/asclaria/libraries/swiftmailer/lib/swift_required.php';
+
+$title = "Contact | ";
+include 'includes/header.php';
+
 ?>
 
-	<main id="content">
-		<h1 class="heading">Contact</h1>
+	<div class="page" id="page">
+		
+<?php include 'includes/page__menu.php'; ?>
+		
+		<h1 class="page__heading">Contact</h1>
 		<article class="article">
 <?php
 
@@ -48,7 +54,7 @@
 			else :
 
 ?>
-			<p>Something went wrong. Maybe you're not human?</p>
+			<p>Something went wrong. Maybe you’re not human?</p>
 <?php
 
 			endif;
@@ -58,37 +64,24 @@
 			<p>Use this contact form to send me whatever! If you prefer direct email, you can send me your love at <a href="mailto:hello@asclaria.org">hello@asclaria.org</a>.</p>
 			<p>Marked (*) fields are required.</p>
 			<form action="#" method="post">
-				<ol class="form">
-					<li>
-						<label>Type &lsquo;star&rsquo; backwards *</label>
-						<input name="security" type="text" placeholder="Hint: rats" required />
-					</li>
-					<li>
-						<label>Name *</label>
-						<input name="name" type="text" placeholder="Your amazing name" required />
-					</li>
-					<li>
-						<label>Email Address *</label>
-						<input name="email" type="text" placeholder="Your awesome email address" required />
-					</li>
-					<li>
-						<label>Website</label>
-						<input name="url" type="text" placeholder="Your spiffy website" />
-					</li>
-					<li>
-						<label>Subject *</label>
-						<input name="subject" type="text" placeholder="A title to your speech" required />
-					</li>
-					<li>
-						<label>Message *</label>
-						<textarea name="message" rows="5" placeholder="Tell me your secrets!" required></textarea>
-					</li>
-					<li class="align-center">
-						<button name="contact"><span class="fa fa-send-o"></span> Send message!</button>
-					</li>
-				</ol>
+				<p><b><label>Type &lsquo;star&rsquo; backwards *</label></b></p>
+				<p><input name="security" type="text" placeholder="Hint: rats" required /></p>
+				<p><b><label>Name *</label></b></p>
+				<p><input name="name" type="text" placeholder="Your amazing name" required /></p>
+				<p><b><label>Email Address *</label></b></p>
+				<p><input name="email" type="text" placeholder="Your awesome email address" required /></p>
+				<p><b><label>Website</label></b></p>
+				<p><input name="url" type="text" placeholder="Your spiffy website" /></p>
+				<p><b><label>Subject *</label></b></p>
+				<p><input name="subject" type="text" placeholder="A title to your speech" required /></p>
+				<p><b><label>Message *</label></b></p>
+				<p><textarea name="message" rows="5" placeholder="Tell me your secrets!" required></textarea></p>
+				<p style="text-align: center;">
+					<button name="contact"><span class="fa fa-send-o"></span> Send message!</button>
+				</p>
 			</form>
 		</article> <!-- .article -->
-	</main> <!-- #content -->
+		
+	</div> <!-- .page -->
 
 <?php include 'includes/footer.php'; ?>

@@ -1,15 +1,15 @@
 RewriteEngine on
 
-RewriteRule ^about/([^/]+)/?$ about_$1.php [L]
-RewriteRule ^projects/([^/]+)/?$ projects_$1.php [L]
+RewriteRule ^about/([^/]+)/?$ about.php?subpage=$1 [L]
+RewriteRule ^projects/([^/]+)/?$ projects.php?category=$1 [L]
 RewriteRule ^extras/([^/]+)/?$ extras_$1.php [L]
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteRule ^([a-z0-9]+)/?$ $1.php [L]
 
-ErrorDocument 404 https://asclaria.org/404
-ErrorDocument 403 https://asclaria.org/403
-ErrorDocument 500 https://asclaria.org/500
+# ErrorDocument 404 https://asclaria.org/404
+# ErrorDocument 403 https://asclaria.org/403
+# ErrorDocument 500 https://asclaria.org/500
 
 Options All -Indexes

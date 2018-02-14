@@ -2,7 +2,7 @@
 
 Asclaria is Lysianthus’s umbrella network.
 
-> Asclaria is Lysianthus’s umbrella network. All of her personal websites, cliques, fanlistings, fansites, shrines, tributes, and miscellaneous projects are under this umbrella.
+**Current Version:** 5
 
 [Live](https://asclaria.org)
 

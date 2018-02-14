@@ -1,24 +1,77 @@
+// Metadata
+
+/*!
+ * Asclaria
+ * Version: 5
+ * 
+ * Lysianthus's personal use only
+ */
+
 // Fonts
 
-$fontDefault: 'Karla', serif;
-$fontHeading: 'Gardenia', cursive;
-
 @font-face {
-	font-family: 'Gardenia';
+	font-family: 'Kelvinch';
 	font-weight: normal;
 	font-style: normal;
-	src: url('../fonts/gardenia.woff') format('woff');
+	src: url('../fonts/KelvinchRegular.woff') format('woff');
 }
+
+@font-face {
+	font-family: 'Kelvinch';
+	font-weight: bold;
+	font-style: normal;
+	src: url('../fonts/KelvinchBold.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Kelvinch';
+	font-weight: normal;
+	font-style: italic;
+	src: url('../fonts/KelvinchItalic.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Kelvinch';
+	font-weight: bold;
+	font-style: italic;
+	src: url('../fonts/KelvinchBoldItalic.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Ribbon';
+	font-weight: normal;
+	font-style: normal;
+	src: url('../fonts/Ribbon.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Cornerstone';
+	font-weight: normal;
+	font-style: normal;
+	src: url('../fonts/Cornerstone.woff') format('woff');
+}
+
+$fontDefault: 'Kelvinch', serif;
+$fontHeading: 'Ribbon', sans-serif;
+$fontAlt: 'Cornerstone', sans-serif;
 
 
 // Colors
 
-$brown: #7f6a4e;
-$red: #ea3627;
-$olive: #b1bb9a;
-$beige: #f8b583;
-$yellow: #f8efd2;
-$orange: #f8772e;
+/*$red: #fc003b;
+$violet: #b438e8;
+$yellow: #ffff4a;
+$cyan: #37f3ff;
+$teal: #45dcba;
+$dull_red: #ef084c;
+$purple: #f346be;*/
+
+$light: #F5F5F5;
+$lightpink: #FEC0C7;
+$pink: #E26872;
+$darkviolet: #572C56;
+$violet: #A05F91;
+$yellow: #F6E998;
 
 $gray: #999;
 $bggray: #DDD;
@@ -29,13 +82,9 @@ $black: #000;
 
 // Reusable Classes
 
-%relative-zero {
+%clearfix {
 	margin: 0;
 	padding: 0;
-}
-
-%clearfix {
-	@extend %relative-zero;
 	content: '';
 	display: table;
 	clear: both;

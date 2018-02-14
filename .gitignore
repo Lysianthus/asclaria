@@ -1,8 +1,9 @@
+common/images/
 dist/*.html
 dist/assets/*
 !dist/assets/css
 !dist/assets/js
-psd
+src/*.html
 src/assets/*
 !src/assets/js
 !src/assets/scss

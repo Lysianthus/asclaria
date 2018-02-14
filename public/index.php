@@ -1,39 +1,30 @@
 <?php
-	$title = "";
-	include 'includes/header.php';
+
+$title = "";
+include 'includes/header.php';
+
 ?>
 
-	<main id="content">
-		<h1 class="heading">Projects</h1>
-		<p class="subheading"><span>Tip: Click the cat to go!</span></p>
-		<div class="projects">
-			<div class="project">
-				<h2 class="project-title"><span>Personal</span></h2>
-				<p>Here are projects revolving around Lysianthus and her works.</p>
-				<p><a class="go" href="/projects/personal"><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
-			</div> <!-- .project -->
-			<div class="project">
-				<h2 class="project-title"><span>Fandom</span></h2>
-				<p>Here are projects specifically dedicated to fandom and related topics.</p>
-				<p><a class="go" href="/projects/fan"><img alt="" src="/assets/images/butt_cat.png" /></a></p>
-			</div> <!-- .project -->
-			<div class="project">
-				<h2 class="project-title"><span>Interactive</span></h2>
-				<p>Here are interactive websites about topics of all kinds for people of all kinds.</p>
-				<p><a class="go" href="/projects/interactive"><img alt="" src="/assets/images/fat_cat.png" /></a></p>
-			</div> <!-- .project -->
-			<div class="project">
-				<h2 class="project-title"><span>Miscellaneous</span></h2>
-				<p>Here you will find some useful stuff, and some just Lysianthus playing around.</p>
-				<p><a class="go" href="/projects/miscellaneous"><img alt="" src="/assets/images/back_cat.png" /></a></p>
-			</div> <!-- .project -->
-			<!--
-			<div class="project">
-				<h2 class="project-title"><span>Archived</span></h2>
-				<p>Here are projects once alive in the past, but now kept in the cabinets. (This is different from the actual <a target="_blank" href="https://archives.asclaria.org">Archives</a>.)</p>
-				<p><a class="go" href="/projects/archived"><img alt="" src="/assets/images/arching_cat.png" /></a></p>
-			</div> <!-- .project -->
-		</div> <!-- .projects -->
-	</main> <!-- #content -->
+	<div id="welcome">
+		<h1 id="welcome__site-name">Asclaria</h1>
+		<p id="welcome__site-description">Lysianthus’s umbrella network</p>
+	</div> <!-- #welcome -->
+	<nav id="welcome__menu">
+		<a id="openProjects" onclick="openProjects();" href="javascript:;">#projects</a>
+		<a href="/about/">/about</a>
+		<a href="/linkage/">/linkage</a>
+		<a href="/contact/">/contact</a>
+	</nav> <!-- #welcome__menu -->
+
+	<nav id="projects">
+		<h2>Choose a Category</h2>
+		<ul>
+			<li><a href="/projects/personal">Personal Projects</a></li>
+			<li><a href="/projects/fan">Fan Projects</a></li>
+			<li><a href="/projects/interactive">Interactive Projects</a></li>
+			<li><a href="/projects/miscellaneous">Miscellaneous Projects</a></li>
+		</ul>
+		<p><button id="closeProjects" onclick="closeProjects();">Close</button></p>
+	</nav> <!-- #projects-menu -->
 
 <?php include 'includes/footer.php'; ?>

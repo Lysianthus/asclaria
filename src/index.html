@@ -4,72 +4,42 @@
 <head>
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	
-	<title>Asclaria &mdash; Lysianthus's umbrella network</title>
-	
-	<link href="shortcut icon" href="assets/images/favicon.png" />
+
+	<title>Asclaria</title>
+
+	<link rel="stylesheet" href="assets/images/favicon.ico" />
+
 	<!-- build:css assets/css/asclaria.css -->
 	<link rel="stylesheet" href="assets/css/style.css" />
 	<!-- endbuild -->
 </head>
 
 <body>
-	<nav id="main-menu">
+	<div id="welcome">
+		<h1 id="welcome__site-name">Asclaria</h1>
+		<p id="welcome__site-description">Lysianthus's umbrella network</p>
+	</div> <!-- #welcome -->
+	<nav id="welcome__menu">
+		<a id="openProjects" onclick="openProjects();" href="javascript:;">#projects</a>
+		<a href="page.html">/about</a>
+		<a href="page.html">/linkage</a>
+		<a href="page.html">/contact</a>
+	</nav> <!-- #welcome__menu -->
+
+	<nav id="projects">
+		<h2>Choose a Category</h2>
 		<ul>
-			<li><a href="/about">About</a></li>
-			<li><a href="/">Projects</a></li>
-			<li><a href="/extras">Extras</a></li>
-			<li><a href="/linkage">Linkage</a></li>
-			<li><a href="/contact">Contact</a></li>
-			<li><a target="_blank" href="https://twitter.com/asclaria">Twitter</a></li>
+			<li><a href="showcase.html">Personal Projects</a></li>
+			<li><a href="showcase.html">Fan Projects</a></li>
+			<li><a href="showcase.html">Interactive Projects</a></li>
+			<li><a href="showcase.html">Miscellaneous Projects</a></li>
 		</ul>
-	</nav> <!-- #main-menu -->
-	<header id="header">
-		<h1 id="site-name">Asclaria</h1>
-		<h2 id="site-description">Lysianthus's Umbrella Network</h2>
-		<div id="logo"></div>
-	</header> <!-- #header -->
-
-	<main id="content">
-		<h1 class="heading">This Is a Heading</h1>
-		<p class="subheading"><span>This Is a Subheading</span></p>
-		<div class="projects">
-			<div class="project">
-				<h2 class="project-title"><span>Aenean ac erat</span></h2>
-				<p>Lorem <a href="">ipsum dolor</a> sit amet, consectetur adipiscing elit. Aliquam id magna id odio tincidunt pretium. Morbi nec urna ipsum. Sed justo mi, feugiat et lobortis a, dapibus vitae metus. Cras consequat risus sit amet elit rutrum blandit sed eget lorem. Nunc mi magna, hendrerit a mollis in, convallis ut risus. In at porta lectus.</p>
-				<p><a class="go" target="_blank" href=""><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
-			</div> <!-- .project -->
-			<div class="project">
-				<h2 class="project-title"><span>Aenean ac erat</span></h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam id magna id odio tincidunt pretium. Morbi nec urna ipsum. Sed justo mi, feugiat et lobortis a, dapibus vitae metus. Cras consequat risus sit amet elit rutrum blandit sed eget lorem. Nunc mi magna, hendrerit a mollis in, convallis ut risus. In at porta lectus.</p>
-				<p><a class="go" target="_blank" href=""><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
-			</div> <!-- .project -->
-			<div class="project">
-				<h2 class="project-title"><span>Aenean ac erat</span></h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam id magna id odio tincidunt pretium. Morbi nec urna ipsum. Sed justo mi, feugiat et lobortis a, dapibus vitae metus. Cras consequat risus sit amet elit rutrum blandit sed eget lorem. Nunc mi magna, hendrerit a mollis in, convallis ut risus. In at porta lectus.</p>
-				<p><a class="go" target="_blank" href=""><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
-			</div> <!-- .project -->
-			<div class="project">
-				<h2 class="project-title"><span>Aenean ac erat</span></h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam id magna id odio tincidunt pretium. Morbi nec urna ipsum. Sed justo mi, feugiat et lobortis a, dapibus vitae metus. Cras consequat risus sit amet elit rutrum blandit sed eget lorem. Nunc mi magna, hendrerit a mollis in, convallis ut risus. In at porta lectus.</p>
-				<p><a class="go" target="_blank" href=""><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
-			</div> <!-- .project -->
-			<div class="project">
-				<h2 class="project-title"><span>Aenean ac erat</span></h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam id magna id odio tincidunt pretium. Morbi nec urna ipsum. Sed justo mi, feugiat et lobortis a, dapibus vitae metus. Cras consequat risus sit amet elit rutrum blandit sed eget lorem. Nunc mi magna, hendrerit a mollis in, convallis ut risus. In at porta lectus.</p>
-				<p><a class="go" target="_blank" href=""><img alt="" src="/assets/images/friendly_cat.png" /></a></p>
-			</div> <!-- .project -->
-		</div> <!-- .projects -->
-	</main> <!-- #content -->
-
-	<footer id="footer">
-		<p>Copyright &copy; 2015-2016 Asclaria &bull; No copyright infringement intended.</p>
-		<p><a href="/about/credits">Credits &amp; Resources</a></p>
-	</footer> <!-- #footer -->
+		<p><button id="closeProjects" onclick="closeProjects();">Close</button></p>
+	</nav> <!-- #projects-menu -->
 
 	<!-- build:js assets/js/asclaria.js -->
-	<script src="assets/js/statcounter.js"></script>
-	<script src="assets/js/google-analytics.js"></script>
+	<script src="assets/js/scripts.js"></script>
+	<script src="assets/js/trackers.js"></script>
 	<!-- endbuild -->
 </body>
 
