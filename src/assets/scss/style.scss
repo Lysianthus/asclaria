@@ -256,7 +256,7 @@ figure img {
 	padding: 0;
 	@include font($fontHeading, normal, normal, 5rem);
 	color: $white;
-	text-shadow: -10px 0 10px $pink, 10px 0 10px $pink;
+	text-shadow: -10px 0 10px $pink, 10px 0 10px $pink, 0 10px 10px $pink, 0 -10px 10px $pink;
 
 	@media only screen and (max-width: 767px) {
 		font-size: 3rem;
