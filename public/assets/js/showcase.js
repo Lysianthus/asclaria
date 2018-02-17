@@ -159,7 +159,7 @@ function sChocobear() {
 
 function sArchives() {
 	var s_title = "Archives";
-	var s_description = "Archives is the place for all things past.";
+	var s_description = "Archives is the place for all things past. It serves as my personal mirror for some favorite things that no longer exist on the internet.";
 	var s_url = "https://archives.asclaria.org";
 	var s_image = '/assets/images/archives.png';
 
