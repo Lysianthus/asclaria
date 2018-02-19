@@ -114,7 +114,7 @@ include 'includes/header.php';
 			<nav class="showcase__header__menu">
 				<h2 class="showcase__header__menu__heading">&mdash; Coming Soon &mdash;</h2>
 				<a class="showcase_item" href="javascript:;">
-					<img class="showcase__item__thumbnail" alt="" src="/assets/images/cornelia.png" />
+					<img class="showcase__item__thumbnail" alt="" src="/assets/images/cornelia.png?v=2" />
 					<div class="showcase__item__info">
 						<p class="showcase__item__title">Cornelia li Britannia</p>
 						<p class="showcase__item__url">cornelia.asclaria.org</p>

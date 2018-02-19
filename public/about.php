@@ -98,10 +98,7 @@ include 'includes/header.php';
 			</ul>
 			<p>Browse the network to be enlightened.</p>
 			<h2>Credits</h2>
-			<p>Special thanks to these sources whose works I have used in making this website:</p>
-			<ul>
-				<li><b><a target="_blank" href="https://keary23.deviantart.com/art/Render-14-Girl-519711064">keary23</a></b> for the render</li>
-			</ul>
+			<p>The current design features a character graphic from <i>Diabolik Lovers</i> rendered by <b><a target="_blank" href="https://keary23.deviantart.com/art/Render-14-Girl-519711064">keary23</a></b>. Special thanks!</p>
 		</article> <!-- .article -->
 
 		<?php endif; ?>
