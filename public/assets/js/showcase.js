@@ -62,7 +62,7 @@ function sLeprd() {
 	var s_title = "Leprd";
 	var s_description = "Leprd is a free web hosting service.";
 	var s_url = "https://leprd.space";
-	var s_image = '/assets/images/leprd.png';
+	var s_image = '/assets/images/leprd.png?v=0';
 
 	var s_info = [s_title, s_description, s_url, s_image];
 

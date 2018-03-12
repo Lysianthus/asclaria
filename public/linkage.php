@@ -48,8 +48,8 @@ include 'includes/header.php';
 			</p>
 			<p style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
 				<a target="_blank" href="http://arose.nu">Arose</a>
-				<a target="_blank" href="http://astralis.site">Astralis</a>
 				<a target="_blank" href="http://erzadel.net">Erzadel</a>
+				<a target="_blank" href="http://jbytes.us">JBytes</a>
 				<a target="_blank" href="http://lenne.nu">Lenne</a>
 				<a target="_blank" href="http://rigelatin.net">Rigelatin</a>
 				<a target="_blank" href="http://sohryu.nu">Sohryu</a>
