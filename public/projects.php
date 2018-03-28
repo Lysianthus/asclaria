@@ -40,35 +40,35 @@ include 'includes/header.php';
 
 			<nav class="showcase__header__menu">
 				<h2 class="showcase__header__menu__heading">&mdash; Personal Projects &mdash;</h2>
-				<a class="showcase_item" href="javascript:;" onclick="sAffelius();">
+				<a class="showcase_item" href="javascript:;" onclick="showInfo(1);">
 					<img class="showcase__item__thumbnail" alt="" src="/assets/images/square_face.png" />
 					<div class="showcase__item__info">
 						<p class="showcase__item__title">Affelius</p>
 						<p class="showcase__item__url">affeli.us</p>
 					</div> <!-- .showcase__item__info -->
 				</a> <!-- .showcase_item -->
-				<a class="showcase_item" href="javascript:;" onclick="sAsclaria();">
+				<a class="showcase_item" href="javascript:;" onclick="showInfo(2);">
 					<img class="showcase__item__thumbnail" alt="" src="/assets/images/square_hands.png" />
 					<div class="showcase__item__info">
 						<p class="showcase__item__title">Asclaria</p>
 						<p class="showcase__item__url">asclaria.org</p>
 					</div> <!-- .showcase__item__info -->
 				</a> <!-- .showcase_item -->
-				<a class="showcase_item" href="javascript:;" onclick="sLysianthus();">
+				<a class="showcase_item" href="javascript:;" onclick="showInfo(3);">
 					<img class="showcase__item__thumbnail" alt="" src="/assets/images/square_face.png" />
 					<div class="showcase__item__info">
 						<p class="showcase__item__title">Lysianthus</p>
 						<p class="showcase__item__url">lysianth.us</p>
 					</div> <!-- .showcase__item__info -->
 				</a> <!-- .showcase_item -->
-				<a class="showcase_item" href="javascript:;" onclick="sPaperCarvings();">
+				<a class="showcase_item" href="javascript:;" onclick="showInfo(4);">
 					<img class="showcase__item__thumbnail" alt="" src="/assets/images/square_hands.png" />
 					<div class="showcase__item__info">
 						<p class="showcase__item__title">Paper Carvings</p>
 						<p class="showcase__item__url">papercarvings.lysianth.us</p>
 					</div> <!-- .showcase__item__info -->
 				</a> <!-- .showcase_item -->
-				<a class="showcase_item" href="javascript:;" onclick="sLeprd();">
+				<a class="showcase_item" href="javascript:;" onclick="showInfo(5);">
 					<img class="showcase__item__thumbnail" alt="" src="/assets/images/square_face.png" />
 					<div class="showcase__item__info">
 						<p class="showcase__item__title">Leprd</p>
@@ -81,28 +81,28 @@ include 'includes/header.php';
 
 			<nav class="showcase__header__menu">
 				<h2 class="showcase__header__menu__heading">&mdash; Fan Projects &mdash;</h2>
-				<a class="showcase_item" href="javascript:;" onclick="sPowerCouple();">
+				<a class="showcase_item" href="javascript:;" onclick="showInfo(6);">
 					<img class="showcase__item__thumbnail" alt="" src="/assets/images/superwonder_thumb.png" />
 					<div class="showcase__item__info">
 						<p class="showcase__item__title">Power Couple</p>
 						<p class="showcase__item__url">superwonder.asclaria.org</p>
 					</div> <!-- .showcase__item__info -->
 				</a> <!-- .showcase_item -->
-				<a class="showcase_item" href="javascript:;" onclick="sSMWWFF();">
+				<a class="showcase_item" href="javascript:;" onclick="showInfo(7);">
 					<img class="showcase__item__thumbnail" alt="" src="/assets/images/smwwfics_thumb.png" />
 					<div class="showcase__item__info">
 						<p class="showcase__item__title">Superman/Wonder Woman Fan Fiction Index</p>
 						<p class="showcase__item__url">smwwfics.asclaria.org</p>
 					</div> <!-- .showcase__item__info -->
 				</a> <!-- .showcase_item -->
-				<a class="showcase_item" href="javascript:;" onclick="sVeraFarmigaEbooks();">
+				<a class="showcase_item" href="javascript:;" onclick="showInfo(8);">
 					<img class="showcase__item__thumbnail" alt="" src="/assets/images/verafarmigabot_thumb.png" />
 					<div class="showcase__item__info">
 						<p class="showcase__item__title">VERA FARMIGA EBOOKS</p>
 						<p class="showcase__item__url">twitter.com/verafarmigabot</p>
 					</div> <!-- .showcase__item__info -->
 				</a> <!-- .showcase_item -->
-				<a class="showcase_item" href="javascript:;" onclick="sVernaFlamingo();">
+				<a class="showcase_item" href="javascript:;" onclick="showInfo(9);">
 					<img class="showcase__item__thumbnail" alt="" src="/assets/images/vernaflamingo_thumb.png" />
 					<div class="showcase__item__info">
 						<p class="showcase__item__title">Verna Flamingo</p>
@@ -133,55 +133,48 @@ include 'includes/header.php';
 
 			<nav class="showcase__header__menu">
 				<h2 class="showcase__header__menu__heading">&mdash; Interactive Projects &mdash;</h2>
-				<a class="showcase_item" href="javascript:;" onclick="sSmoothSailing();">
+				<a class="showcase_item" href="javascript:;" onclick="showInfo(10);">
 					<img class="showcase__item__thumbnail" alt="" src="/assets/images/square_face.png" />
 					<div class="showcase__item__info">
 						<p class="showcase__item__title">Smooth Sailing Listings</p>
 						<p class="showcase__item__url">smoothsailing.asclaria.org</p>
 					</div> <!-- .showcase__item__info -->
 				</a> <!-- .showcase_item -->
-				<a class="showcase_item" href="javascript:;" onclick="sInnerBuoyancy();">
+				<a class="showcase_item" href="javascript:;" onclick="showInfo(11);">
 					<img class="showcase__item__thumbnail" alt="" src="/assets/images/square_hands.png" />
 					<div class="showcase__item__info">
 						<p class="showcase__item__title">Inner Buoyancy</p>
 						<p class="showcase__item__url">twitter.com/InnerBuoyancy</p>
 					</div> <!-- .showcase__item__info -->
 				</a> <!-- .showcase_item -->
-				<a class="showcase_item" href="javascript:;" onclick="sTests();">
+				<a class="showcase_item" href="javascript:;" onclick="showInfo(12);">
 					<img class="showcase__item__thumbnail" alt="" src="/assets/images/square_face.png" />
 					<div class="showcase__item__info">
 						<p class="showcase__item__title">Tests</p>
 						<p class="showcase__item__url">tests.asclaria.org</p>
 					</div> <!-- .showcase__item__info -->
 				</a> <!-- .showcase_item -->
-				<!--a class="showcase_item" href="javascript:;" onclick="sChocobear();">
-					<img class="showcase__item__thumbnail" alt="" src="/assets/images/square_hands.png" />
-					<div class="showcase__item__info">
-						<p class="showcase__item__title">Chocobear</p>
-						<p class="showcase__item__url">chocobear.site</p>
-					</div> <!-- .showcase__item__info -->
-				<!--/a> <!-- .showcase_item -->
 			</nav> <!-- .showcase__header__menu -->
 			
 			<?php elseif ($category == 'miscellaneous') : ?>
 
 			<nav class="showcase__header__menu">
 				<h2 class="showcase__header__menu__heading">&mdash; Miscellaneous Projects &mdash;</h2>
-				<a class="showcase_item" href="javascript:;" onclick="sArchives();">
+				<a class="showcase_item" href="javascript:;" onclick="showInfo(13);">
 					<img class="showcase__item__thumbnail" alt="" src="/assets/images/square_face.png" />
 					<div class="showcase__item__info">
 						<p class="showcase__item__title">Archives</p>
 						<p class="showcase__item__url">archives.asclaria.org</p>
 					</div> <!-- .showcase__item__info -->
 				</a> <!-- .showcase_item -->
-				<a class="showcase_item" href="javascript:;" onclick="sVVVVVV();">
+				<a class="showcase_item" href="javascript:;" onclick="showInfo(14);">
 					<img class="showcase__item__thumbnail" alt="" src="/assets/images/square_hands.png" />
 					<div class="showcase__item__info">
 						<p class="showcase__item__title">VVVVVV</p>
 						<p class="showcase__item__url">vvvvvv.asclaria.org</p>
 					</div> <!-- .showcase__item__info -->
 				</a> <!-- .showcase_item -->
-				<a class="showcase_item" href="javascript:;" onclick="sTHHQ();">
+				<a class="showcase_item" href="javascript:;" onclick="showInfo(15);">
 					<img class="showcase__item__thumbnail" alt="" src="/assets/images/square_face.png" />
 					<div class="showcase__item__info">
 						<p class="showcase__item__title">Throwaway Headquarters</p>
@@ -204,6 +197,6 @@ include 'includes/header.php';
 		</main> <!-- .showcase__content -->
 	</div> <!-- .showcase -->
 
-	<script src="/assets/js/showcase.js?v=5.0.3"></script>
+	<script src="/assets/js/showcase.js?v=5.1.0"></script>
 
 <?php include 'includes/footer.php'; ?>
