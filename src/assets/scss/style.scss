@@ -483,7 +483,7 @@ figure img {
 	color: $lightpink;
 }
 
-.showcase_item {
+.showcase__item {
 	display: block;
 	margin: 0 0 20px;
 	padding: 0;
@@ -505,6 +505,7 @@ figure img {
 }
 
 .showcase__item__info {
+	position: relative;
 	margin: 0 0 0 100px;
 	padding: 10px;
 	height: 100px;
@@ -518,15 +519,23 @@ figure img {
 }
 
 .showcase__item__title {
+	position: relative;
+	z-index: 2;
 	margin: 0 0 10px;
 	padding: 0;
 	@include font($fontDefault, bold, normal, 1.1rem);
 }
 
 .showcase__item__url {
+	position: absolute;
+	z-index: 1;
+	right: -10px;
+	bottom: 10px;
 	margin: 0;
-	padding: 0;
-	@include font($fontDefault, normal, italic, 0.8rem);
+	padding: 10px;
+	background-color: $yellow;
+	@include font($fontDefault, normal, normal, 0.8rem);
+	color: $darkviolet;
 }
 
 .showcase__content {
