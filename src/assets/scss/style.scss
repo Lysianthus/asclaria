@@ -534,6 +534,7 @@ figure img {
 	margin: 0;
 	padding: 10px;
 	background-color: $yellow;
+	background: linear-gradient(-45deg, $lightpink 10px, $yellow 10px, $yellow);
 	@include font($fontDefault, normal, normal, 0.8rem);
 	color: $darkviolet;
 }
