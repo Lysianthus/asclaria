@@ -44,7 +44,7 @@ var websites = [
 		"id": 5,
 		"title": "Leprd",
 		"url": "https://leprd.space",
-		"description": "Leprd is a free web hosting service.",
+		"description": "Leprd is a free web hosting service geared towards website hobbyists.",
 		"image": "/assets/images/leprd.png?v=0",
 		"category": "1"
 	},
