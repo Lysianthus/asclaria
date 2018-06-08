@@ -75,7 +75,7 @@ var websites = [
 	{
 		"id": 9,
 		"title": "Verna Flamingo",
-		"url": "https://vernaflamingo.isamotherfucking.ninja",
+		"url": "https://vernaflamingo.meowandsparkle.party",
 		"description": 'Verna Flamingo is a splash page dedicated to Vera Farmiga. This project is also categorized under <a target="_blank" href="http://th-hq.asclaria.org">Throwaway Projects</a>.',
 		"image": "/assets/images/vernaflamingo.png",
 		"category": "2"
