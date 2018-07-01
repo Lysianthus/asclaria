@@ -68,7 +68,7 @@ var websites = [
 		"id": 8,
 		"title": "VERA FARMIGA EBOOKS",
 		"url": "https://twitter.com/VeraFarmigaBot",
-		"description": 'a progress in work, and a <a target="_blank" href="https://twitter.com/VeraFarmiga">@VeraFarmiga</a> bot',
+		"description": 'a progress in work, and a <a target="_blank" href="https://twitter.com/VeraFarmiga">@VeraFarmiga</a> bot, with words scrambled from her tweets',
 		"image": "/assets/images/verafarmigabot.png",
 		"category": "2"
 	},
@@ -127,6 +127,14 @@ var websites = [
 		"description": "Throwaway Headquarters is the headquarters for all of my throwaway websites.",
 		"image": "/assets/images/th-hq.png",
 		"category": "4"
+	},
+	{
+		"id": 16,
+		"title": "Balalaika GIF Bot",
+		"url": "https://twitter.com/motelhoscow",
+		"description": "a Twitter bot that tweets at least one animated GIF of Balalaika from Black Lagoon per day",
+		"image": "/assets/images/motelhoscow.png",
+		"category": "2"
 	}
 ];
 

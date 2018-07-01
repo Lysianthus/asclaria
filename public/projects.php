@@ -95,8 +95,15 @@ include 'includes/header.php';
 						<p class="showcase__item__url">smwwfics.asclaria.org</p>
 					</div> <!-- .showcase__item__info -->
 				</a> <!-- .showcase__item -->
+				<a class="showcase__item" href="javascript:;" onclick="showInfo(16);">
+					<img class="showcase__item__thumbnail" alt="" src="/assets/images/motelhoscow_thumb.png" />
+					<div class="showcase__item__info">
+						<p class="showcase__item__title">Balalaika GIF Bot</p>
+						<p class="showcase__item__url">twitter.com/motelhoscow</p>
+					</div> <!-- .showcase__item__info -->
+				</a> <!-- .showcase__item -->
 				<a class="showcase__item" href="javascript:;" onclick="showInfo(8);">
-					<img class="showcase__item__thumbnail" alt="" src="/assets/images/verafarmigabot_thumb.png" />
+					<img class="showcase__item__thumbnail" alt="" src="/assets/images/verafarmigabot_thumb.png?v=2" />
 					<div class="showcase__item__info">
 						<p class="showcase__item__title">VERA FARMIGA EBOOKS</p>
 						<p class="showcase__item__url">twitter.com/verafarmigabot</p>
@@ -204,6 +211,6 @@ include 'includes/header.php';
 		</main> <!-- .showcase__content -->
 	</div> <!-- .showcase -->
 
-	<script src="/assets/js/showcase.js?v=5.1.3"></script>
+	<script src="/assets/js/showcase.js?v=5.1.5"></script>
 
 <?php include 'includes/footer.php'; ?>
