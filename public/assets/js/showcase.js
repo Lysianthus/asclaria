@@ -26,9 +26,9 @@ var websites = [
 	},
 	{
 		"id": 3,
-		"title": "Lysianthus",
-		"url": "https://lysianth.us",
-		"description": "Lysianthus is my personal homepage. This is my “home base”. My accounts to other websites as well as my contact information can be found here.",
+		"title": "Meow and Sparkle Party!",
+		"url": "https://meowandsparkle.party",
+		"description": "Meow and Sparkle Party! is my personal homepage. This is my “home base”. My accounts to other websites as well as my contact information can be found here.",
 		"image": "/assets/images/lysianthus.png?v=1",
 		"category": "1"
 	},
@@ -75,7 +75,7 @@ var websites = [
 	{
 		"id": 9,
 		"title": "Verna Flamingo",
-		"url": "https://vernaflamingo.meowandsparkle.party",
+		"url": "https://vernaflamingo.isamotherfucking.ninja",
 		"description": 'Verna Flamingo is a splash page dedicated to Vera Farmiga. This project is also categorized under <a target="_blank" href="http://th-hq.asclaria.org">Throwaway Projects</a>.',
 		"image": "/assets/images/vernaflamingo.png",
 		"category": "2"
