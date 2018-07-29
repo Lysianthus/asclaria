@@ -41,7 +41,7 @@ include 'includes/header.php';
 			<h2>Parting Words</h2>
 			<p>If you want to talk, you can easily do that by hopping on the <a href="/contact">contact form</a>. If you want more of me, see the links below!</p>
 			<ul>
-				<li><a target="_blank" href="https://meowandsparkle.party">Personal Homepage</a></li>
+				<li><a target="_blank" href="https://lysianth.us">Personal Homepage</a></li>
 				<li><a target="_blank" href="https://twitter.com/lysnths">Twitter</a></li>
 				<li><a target="_blank" href="http://whereisthenuance.tumblr.com">Tumblr</a></li>
 				<li><a target="_blank" href="https://www.goodreads.com/lysianthus">Goodreads</a></li>
@@ -85,7 +85,6 @@ include 'includes/header.php';
 				<li>meowandsparkle.party</li>
 				<li>bouvardia.blue</li>
 				<li>chocobear.site</li>
-				<li>sparklet.space</li>
 			</ul>
 			<p>Each domain is a sub-umbrella.</p>
 			<h2>Content Breakdown</h2>
