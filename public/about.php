@@ -29,11 +29,11 @@ include 'includes/header.php';
 		<h1 class="page__heading">Lysianthus</h1>
 		<article class="article">
 			<h2>Not A Wonder Woman</h2>
-			<p>Hi! I go by Lysianthus. I’m presently (5 &times; 4) years old. I was born and still live in the Pearl of the Orient Seas. I am a materials engineering student in the morning, a fake psychologist in the afternoon, and a hobbyist web designer-developer in the evening. I am a closet fangirl and an unapologetic shipper.</p>
+			<p>Hi! I go by Lysianthus. I’m presently (7 &times; 3) years old. I was born and still live in the <abbr title="Philippines">Pearl of the Orient Seas</abbr>. I am an engineering student in the morning, a fake psychologist in the afternoon, and a hobbyist web developer in the evening. I am a closet fangirl and an unapologetic shipper.</p>
 			<p>And to continue this about me page, here are five interesting facts about me:</p>
 			<ul>
 				<li>I’m near-sighted.</li>
-				<li>I’m into personality typology! In the MBTI, I have the functions Ni-Se and Ti-Fe, I just don’t know in what order. In the Enneagram, I’m a 9w1 with the tritype 954 and instinctual variants self-preservation-social (sp/so). I’m somewhere between phlegmatic and melancholic.</li>
+				<li>I’m into personality typology! In the MBTI, I have the functions Ni-Se and Ti-Fe, I just don’t know in what order. In the Enneagram, I’m a 9w1 with the tritype 954 and instinctual variants self-preservation-social (sp/so). I’m somewhere between phlegmatic and melancholic. My D&D alignment is True Neutral.</li>
 				<li>I am probably shorter than you!</li>
 				<li>My favorite fruit is the rambutan.</li>
 				<li>My wildest yet impossible dream is to become a person with multiple identities!</li>

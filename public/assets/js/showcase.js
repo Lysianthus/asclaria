@@ -26,9 +26,9 @@ var websites = [
 	},
 	{
 		"id": 3,
-		"title": "Meow and Sparkle Party!",
-		"url": "https://meowandsparkle.party",
-		"description": "Meow and Sparkle Party! is my personal homepage. This is my “home base”. My accounts to other websites as well as my contact information can be found here.",
+		"title": "Lysianthus",
+		"url": "https://lysianth.us",
+		"description": "Lysianthus is my personal homepage. This is my “home base”. My accounts to other websites as well as my contact information can be found here.",
 		"image": "/assets/images/lysianthus.png?v=1",
 		"category": "1"
 	},

@@ -57,8 +57,8 @@ include 'includes/header.php';
 				<a class="showcase__item" href="javascript:;" onclick="showInfo(3);">
 					<img class="showcase__item__thumbnail" alt="" src="/assets/images/square_face.png" />
 					<div class="showcase__item__info">
-						<p class="showcase__item__title">Meow and Sparkle Party!</p>
-						<p class="showcase__item__url">meowandsparkle.party</p>
+						<p class="showcase__item__title">Lysianthus</p>
+						<p class="showcase__item__url">lysianth.us</p>
 					</div> <!-- .showcase__item__info -->
 				</a> <!-- .showcase__item -->
 				<a class="showcase__item" href="javascript:;" onclick="showInfo(4);">
@@ -211,6 +211,6 @@ include 'includes/header.php';
 		</main> <!-- .showcase__content -->
 	</div> <!-- .showcase -->
 
-	<script src="/assets/js/showcase.js?v=5.2.0"></script>
+	<script src="/assets/js/showcase.js?v=5.2.1"></script>
 
 <?php include 'includes/footer.php'; ?>
