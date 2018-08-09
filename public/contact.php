@@ -23,7 +23,7 @@ include 'includes/header.php';
 				$email = $_POST['email'];
 				$url = $_POST['url'];
 				$subject = stripslashes($_POST['subject']);
-				$message = stripslashes($_POST['message']);
+				$message = nl2br(stripslashes($_POST['message']));
 
 				$body = "<p><b>Name:</b> $name</p>
 <p><b>Email Address:</b> $email</p>
