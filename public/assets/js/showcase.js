@@ -135,6 +135,14 @@ var websites = [
 		"description": "a Twitter bot that tweets at least one animated GIF of Balalaika from Black Lagoon per day",
 		"image": "/assets/images/motelhoscow.png",
 		"category": "2"
+	},
+	{
+		"id": 17,
+		"title": "Cat FTP",
+		"url": "https://cat.ftp.sh",
+		"description": "Cat FTP lets you store files temporarily for seven (7) days.",
+		"image": "/assets/images/cat.png",
+		"category": "3"
 	}
 ];
 

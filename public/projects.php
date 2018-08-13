@@ -161,8 +161,15 @@ include 'includes/header.php';
 						<p class="showcase__item__url">twitter.com/InnerBuoyancy</p>
 					</div> <!-- .showcase__item__info -->
 				</a> <!-- .showcase__item -->
-				<a class="showcase__item" href="javascript:;" onclick="showInfo(12);">
+				<a class="showcase__item" href="javascript:;" onclick="showInfo(17);">
 					<img class="showcase__item__thumbnail" alt="" src="/assets/images/square_face.png" />
+					<div class="showcase__item__info">
+						<p class="showcase__item__title">Cat FTP</p>
+						<p class="showcase__item__url">cat.ftp.sh</p>
+					</div> <!-- .showcase__item__info -->
+				</a> <!-- .showcase__item -->
+				<a class="showcase__item" href="javascript:;" onclick="showInfo(12);">
+					<img class="showcase__item__thumbnail" alt="" src="/assets/images/square_hands.png" />
 					<div class="showcase__item__info">
 						<p class="showcase__item__title">Tests</p>
 						<p class="showcase__item__url">tests.asclaria.org</p>
@@ -211,6 +218,6 @@ include 'includes/header.php';
 		</main> <!-- .showcase__content -->
 	</div> <!-- .showcase -->
 
-	<script src="/assets/js/showcase.js?v=5.2.1"></script>
+	<script src="/assets/js/showcase.js?v=5.2.2"></script>
 
 <?php include 'includes/footer.php'; ?>
