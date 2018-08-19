@@ -218,6 +218,6 @@ include 'includes/header.php';
 		</main> <!-- .showcase__content -->
 	</div> <!-- .showcase -->
 
-	<script src="/assets/js/showcase.js?v=5.2.2"></script>
+	<script src="/assets/js/showcase.js?v=5.2.3"></script>
 
 <?php include 'includes/footer.php'; ?>
