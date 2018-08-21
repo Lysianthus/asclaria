@@ -1,23 +1,21 @@
 # Asclaria
 
-Asclaria is Lysianthus’s umbrella network.
+[Asclaria](https://asclaria.org) is my umbrella network.
 
 **Current Version:** 5
-
-[Live](https://asclaria.org)
 
 ## Environment
 
 ### Server
 
-* Apache 2.2+
-* PHP 5.6+
-* MySQL 5.5+
+* Apache 2.4+
+* PHP 7.2+
+* MariaDB 10.1+
 
 Enable Apache `rewrite_module`.
 
 ### Development
 
-* Node.js 4.2+
-* npm 3.3+
-* Sass 3.4+
+* Node.js 8.11+
+* npm 6.4+
+* Sass 1.13+
