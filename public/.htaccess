@@ -1,7 +1,7 @@
 RewriteEngine on
 
 RewriteRule ^about/([^/]+)/?$ about.php?subpage=$1 [L]
-RewriteRule ^projects/([^/]+)/?$ projects.php?category=$1 [L]
+RewriteRule ^projects/([^/]+)/?$ projects_vue.php?category=$1 [L]
 RewriteRule ^extras/([^/]+)/?$ extras_$1.php [L]
 
 RewriteCond %{REQUEST_FILENAME} !-d
