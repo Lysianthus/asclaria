@@ -2,6 +2,11 @@
 
 $category = $_GET['category'];
 
+if (empty($category) {
+	http_response_code(404);
+	exit;
+}
+
 switch ($category) {
 	case 'personal':
 		$title = 'Personal Projects | ';
