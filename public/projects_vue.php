@@ -136,7 +136,7 @@ include 'includes/header.php';
 		</main> <!-- .showcase__content -->
 	</div> <!-- .showcase -->
 
-	<script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.min.js"></script>
 	<script src="/assets/js/showcase-vue.js?v=1.0.0"></script>
 
 <?php include 'includes/footer.php'; ?>
