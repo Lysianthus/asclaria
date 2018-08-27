@@ -1,11 +1,11 @@
 <?php
 
-if (empty($_GET['category']) {
+$category = $_GET['category'];
+
+if (empty($category)) {
 	http_response_code(404);
 	exit;
 }
-
-$category = $_GET['category'];
 
 switch ($category) {
 	case 'personal':
