@@ -280,7 +280,7 @@ figure img {
 	}
 }
 
-#projects {
+#projects, #contact {
 	position: absolute;
 	z-index: 5;
 	top: 110px;
@@ -328,7 +328,15 @@ figure img {
 
 }
 
-#closeProjects {
+#contact {
+	font-size: 1.5rem;
+
+	a {
+		color: $darkviolet;
+	}
+}
+
+#closeProjects, #closeContact {
 	background: none;
 	border: none;
 	@include font($fontDefault, normal, normal, 1.5rem);
