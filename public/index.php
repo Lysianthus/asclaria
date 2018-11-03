@@ -11,8 +11,8 @@ include 'includes/header.php';
 	</div> <!-- #welcome -->
 	<nav id="welcome__menu">
 		<a id="openProjects" onclick="openProjects();" href="javascript:;">#projects</a>
-		<a href="page.html">/about</a>
-		<a href="page.html">/linkage</a>
+		<a href="/about/">/about</a>
+		<a href="/linkage/">/linkage</a>
 		<a id="openContact" onclick="openContact();" href="javascript:;">#contact</a>
 	</nav> <!-- #welcome__menu -->
 
