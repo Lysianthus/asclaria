@@ -1,6 +1,6 @@
 <?php
 
-$subpage = $_GET['subpage'];
+$subpage = (isset($_GET['subpage'])) ? $_GET['subpage'] : '' ;
 
 switch ($subpage) {
 	case 'lysianthus':
