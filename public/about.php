@@ -84,7 +84,6 @@ include 'includes/header.php';
 				<li>leprd.space</li>
 				<li>meowandsparkle.party</li>
 				<li>bouvardia.blue</li>
-				<li>chocobear.site</li>
 			</ul>
 			<p>Each domain is a sub-umbrella.</p>
 			<h2>Content Breakdown</h2>
