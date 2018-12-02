@@ -16,13 +16,11 @@ include 'includes/header.php';
 			<p style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap;">
 				<a target="_blank" href="http://aminuet.com" style="margin: 5px;"><img alt="" src="/assets/images/aminuet.gif" /></a>
 				<a target="_blank" href="http://azurelight.net" style="margin: 5px;"><img alt="" src="/assets/images/azurelight.gif" /></a>
-				<a target="_blank" href="http://besaid.org" style="margin: 5px;"><img alt="" src="/assets/images/besaid.png" /></a>
 				<a target="_blank" href="http://celestialis.com" style="margin: 5px;"><img alt="" src="/assets/images/celestialis.gif" /></a>
 				<a target="_blank" href="http://eternal-wings.net" style="margin: 5px;"><img alt="" src="/assets/images/eternal-wings.png" /></a>
 				<a target="_blank" href="http://ishiryoku.net" style="margin: 5px;"><img alt="" src="/assets/images/ishiryoku.png?v=1" /></a>
 				<a target="_blank" href="http://koishii.org" style="margin: 5px;"><img alt="" src="/assets/images/koishii.png" /></a>
 				<a target="_blank" href="http://kyou.nu" style="margin: 5px;"><img alt="" src="/assets/images/kyou.jpg" /></a>
-				<a target="_blank" href="http://lets-volt.in" style="margin: 5px;"><img alt="" src="/assets/images/lets-volt.in.gif" /></a>
 				<a target="_blank" href="http://like-knives.org" style="margin: 5px;"><img alt="" src="/assets/images/like-knives.png" /></a>
 				<a target="_blank" href="http://londonboy.org" style="margin: 5px;"><img alt="" src="/assets/images/londonboy.png" /></a>
 				<a target="_blank" href="http://nightbringer.net" style="margin: 5px;"><img alt="" src="/assets/images/nightbringer.gif" /></a>
@@ -50,7 +48,6 @@ include 'includes/header.php';
 				<a target="_blank" href="http://aroceu.com">Aroceu</a>
 				<a target="_blank" href="http://erzadel.net">Erzadel</a>
 				<a target="_blank" href="http://lenne.nu">Lenne</a>
-				<a target="_blank" href="http://little-fan.me">Little-Fan</a>
 				<a target="_blank" href="http://rigelatin.net">Rigelatin</a>
 				<a target="_blank" href="http://sohryu.nu">Sohryu</a>
 				<a target="_blank" href="http://withinmyworld.org">Within My World</a>
