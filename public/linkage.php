@@ -29,6 +29,7 @@ include 'includes/header.php';
 				<a target="_blank" href="http://piratesboard.net" style="margin: 5px;"><img alt="" src="/assets/images/piratesboard.png" /></a>
 				<a target="_blank" href="http://potion.nu" style="margin: 5px;"><img alt="" src="/assets/images/potion.png" /></a>
 				<a target="_blank" href="http://www.psyche.nu" style="margin: 5px;"><img alt="" src="/assets/images/psyche.jpg" /></a>
+				<a target="_blank" href="http://quicksilver.nu" style="margin: 5px;"><img alt="" src="/assets/images/quicksilver.png" /></a>
 				<a target="_blank" href="http://raygunsue.org" style="margin: 5px;"><img alt="" src="/assets/images/raygunsue.png" /></a>
 				<a target="_blank" href="http://redcrown.net" style="margin: 5px;"><img alt="" src="/assets/images/redcrown.png?v=1" /></a>
 				<a target="_blank" href="http://rydia.nu" style="margin: 5px;"><img alt="" src="/assets/images/rydia.png" /></a>
