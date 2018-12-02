@@ -84,14 +84,15 @@ include 'includes/header.php';
 				<li>leprd.space</li>
 				<li>meowandsparkle.party</li>
 				<li>bouvardia.blue</li>
+				<li>haliya.net</li>
 			</ul>
 			<p>Each domain is a sub-umbrella.</p>
 			<h2>Content Breakdown</h2>
 			<p>Ideally, Asclaria is...</p>
 			<ul>
-				<li>25% personal &mdash; websites directly related to me</li>
+				<li>25% personal &mdash; major projects or websites related directly to me</li>
 				<li>25% fangirling &mdash; fanlistings, fansites, shrines, and tributes</li>
-				<li>25% interactive &mdash; cliques and communities</li>
+				<li>25% interactive &mdash; cliques, communities, and user-oriented stuff</li>
 				<li>25% nonsense &mdash; miscellaneous</li>
 			</ul>
 			<p>Browse the network to be enlightened.</p>
