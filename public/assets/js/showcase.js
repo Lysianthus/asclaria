@@ -120,7 +120,7 @@ var websites = [
 		"id": 13,
 		"title": "Cat FTP",
 		"url": "https://cat.ftp.sh",
-		"description": "Cat FTP lets you store files temporarily for seven (7) days.",
+		"description": "Cat FTP lets you store files temporarily for 24 hours.",
 		"image": "/assets/images/cat.png",
 		"thumbnail": "/assets/images/square_face.png",
 		"category": 3
