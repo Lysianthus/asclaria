@@ -1,5 +1,4 @@
 function openProjects() {
-	document.getElementById('contact').style.display = "none";
 	document.getElementById('projects').style.display = "block";
 	document.getElementById('projects').classList.add('fadeIn');
 	document.getElementById('welcome__site-name').classList.add('fadeOut');
