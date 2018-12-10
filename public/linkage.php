@@ -75,12 +75,22 @@ include 'includes/header.php';
 			<h2>Link to Asclaria</h2>
 			<p>If you want to link Asclaria on your website (awesome!!!), you can use the following buttons.</p>
 			<p style="text-align: center;">
-				<img alt="" src="/assets/images/asclaria_200x40_1.png">
-				<img alt="" src="/assets/images/asclaria_200x40_2.png">
+				<img alt="Asclaria 200x40" src="/assets/images/asclaria_bayonetta_200x40_1.png" />
+				<img alt="Asclaria 200x40" src="/assets/images/asclaria_bayonetta_200x40_2.png" />
 			</p>
 			<p style="text-align: center;">
-				<img alt="" src="/assets/images/asclaria_88x31_1.png?v=1">
-				<img alt="" src="/assets/images/asclaria_88x31_2.png">
+				<img alt="Asclaria 200x40" src="/assets/images/asclaria_jeanne_200x40_1.png" />
+				<img alt="Asclaria 200x40" src="/assets/images/asclaria_jeanne_200x40_2.png" />
+			</p>
+			<p style="text-align: center;">
+				<img alt="Asclaria 200x40" src="/assets/images/asclaria_200x40_2.png" />
+				<img alt="Asclaria 200x40" src="/assets/images/asclaria_200x40_1.png" />
+			</p>
+			<p style="text-align: center;">
+				<img alt="Asclaria 200x40" src="/assets/images/asclaria_bayonetta_88x31_1.png" />
+				<img alt="Asclaria 200x40" src="/assets/images/asclaria_jeanne_88x31_1.png" />
+				<img alt="Asclaria 88x31" src="/assets/images/asclaria_88x31_2.png" />
+				<img alt="Asclaria 88x31" src="/assets/images/asclaria_88x31_1.png" />
 			</p>
 			<p>Thank you!</p>
 		</article> <!-- .article -->
