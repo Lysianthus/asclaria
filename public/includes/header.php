@@ -28,7 +28,7 @@ $title .= "Asclaria &mdash; Lysianthus’s umbrella network";
 
 	<link rel="icon" type="image/png" href="/assets/images/square_face.png" />
 
-	<link rel="stylesheet" href="/assets/css/asclaria-4bfba8f289.css" />
+	<link rel="stylesheet" href="/assets/css/asclaria-e0ac350424.css" />
 </head>
 
 <body>

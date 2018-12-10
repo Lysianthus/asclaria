@@ -645,15 +645,18 @@ figure img {
 	position: absolute;
 	z-index: 2;
 	top: 0;
-	right: 5%;
+	right: calc(5% - 25px);
 	margin: 0;
 	padding: 25px 0;
 	width: 300px;
 	min-height: 100%;
-
 	background: linear-gradient(to left, transparent 25px, $violet 25px, $violet 35px, transparent 35px, transparent);
 	@include font($fontDefault, bold, normal, 1.25rem);
 	text-align: right;
+
+	@media only screen and (max-width: 768px) {
+		right: 5%;
+	}
 
 	&:after {
 		content: '';
