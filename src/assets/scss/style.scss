@@ -648,7 +648,6 @@ figure img {
 	right: calc(5% - 25px);
 	margin: 0;
 	padding: 25px 0;
-	width: 300px;
 	min-height: 100%;
 	background: linear-gradient(to left, transparent 25px, $violet 25px, $violet 35px, transparent 35px, transparent);
 	@include font($fontDefault, bold, normal, 1.25rem);
@@ -708,6 +707,8 @@ figure img {
 		}
 
 		ul {
+			margin: 0;
+			padding: 0;
 			list-style: none;
 		}
 
@@ -726,12 +727,20 @@ figure img {
 		li {
 			opacity: 0.1;
 			transition: all 300ms ease-in-out;
+
+			ul {
+				display: none;
+			}
 		}
 	}
 
 	.mobile__show-page-menu & {
 		li {
 			opacity: 1;
+
+			ul {
+				display: block;
+			}
 		}
 	}
 }

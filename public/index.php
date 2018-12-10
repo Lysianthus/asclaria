@@ -13,7 +13,7 @@ include 'includes/header.php';
 		<a id="openProjects" onclick="openProjects();" href="javascript:;">#projects</a>
 		<a href="/about/">/about</a>
 		<a href="/linkage/">/linkage</a>
-		<a id="openContact" onclick="openContact();" href="javascript:;">#contact</a>
+		<a href="/contact/">/contact</a>
 	</nav> <!-- #welcome__menu -->
 
 	<nav id="projects">
@@ -26,11 +26,5 @@ include 'includes/header.php';
 		</ul>
 		<p><button id="closeProjects" onclick="closeProjects();">Close</button></p>
 	</nav> <!-- #projects-menu -->
-
-	<div id="contact">
-		<p>Send me your love at <a href="mailto:hello@asclaria.org">hello@asclaria.org</a>! ♥</p>
-		<p>Or if you’re on a desktop, you can use the <a href="/contact/">contact form</a>.</p>
-		<p><button id="closeContact" onclick="closeContact();">Close</button></p>
-	</div> <!-- #contact -->
 
 <?php include 'includes/footer.php'; ?>
