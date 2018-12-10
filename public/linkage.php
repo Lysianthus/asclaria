@@ -12,7 +12,7 @@ include 'includes/header.php';
 		<h1 class="page__heading">Linkage</h1>
 		<article class="article">
 			<h2>Admired</h2>
-			<p>Here is a list of websites and networks that I admire! These networks give me so much inspiration. Do check them out!</p>
+			<p>Here is a list of collectives that I admire! These networks give me so much inspiration. Do check them out!</p>
 			<p style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap;">
 				<a target="_blank" href="http://aminuet.com" style="margin: 5px;"><img alt="" src="/assets/images/aminuet.gif" /></a>
 				<a target="_blank" href="http://azurelight.net" style="margin: 5px;"><img alt="" src="/assets/images/azurelight.gif" /></a>
