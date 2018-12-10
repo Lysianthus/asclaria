@@ -23,31 +23,6 @@ function closeProjects() {
 	}, 1000);
 }
 
-function openContact() {
-	document.getElementById('projects').style.display = "none";
-	document.getElementById('contact').style.display = "block";
-	document.getElementById('contact').classList.add('fadeIn');
-	document.getElementById('welcome__site-name').classList.add('fadeOut');
-	document.getElementById('welcome__site-description').classList.add('fadeOut');
-	setTimeout(function(){
-		document.getElementById('contact').classList.remove('fadeIn');
-	}, 1000);
-}
-
-function closeContact() {
-	document.getElementById('contact').classList.add('fadeOut');
-	document.getElementById('welcome__site-name').classList.remove('fadeOut');
-	document.getElementById('welcome__site-description').classList.remove('fadeOut');
-	document.getElementById('welcome__site-name').classList.add('fadeIn');
-	document.getElementById('welcome__site-description').classList.add('fadeIn');
-	setTimeout(function(){
-		document.getElementById('contact').classList.remove('fadeOut');
-		document.getElementById('welcome__site-name').classList.remove('fadeIn');
-		document.getElementById('welcome__site-description').classList.remove('fadeIn');
-		document.getElementById('contact').style.display = "none";
-	}, 1000);
-}
-
 function toggleHeader() {
 	document.getElementById('showcase').classList.toggle('mobile__show-header');
 }
