@@ -42,6 +42,7 @@ include 'includes/header.php';
 				<a target="_blank" href="http://sutarodo.net" style="margin: 5px;"><img alt="" src="/assets/images/sutarodo.png" /></a>
 				<a target="_blank" href="http://valiantknife.org" style="margin: 5px;"><img alt="" src="/assets/images/valiantknife.gif" /></a>
 				<a target="_blank" href="http://www.wild-seven.org" style="margin: 5px;"><img alt="" src="/assets/images/wild-seven.gif" /></a>
+				<a target="_blank" href="http://withinmyworld.org" style="margin: 5px;"><img alt="" src="/assets/images/withinmyworld.png" /></a>
 				<a target="_blank" href="http://zabimaru.net" style="margin: 5px;"><img alt="" src="/assets/images/zabimaru.gif" /></a>
 				<a target="_blank" href="http://zeruda.org" style="margin: 5px;"><img alt="" src="/assets/images/zeruda.gif?v=1" /></a>
 			</p>
@@ -51,7 +52,6 @@ include 'includes/header.php';
 				<a target="_blank" href="http://lenne.nu">Lenne</a>
 				<a target="_blank" href="http://rigelatin.net">Rigelatin</a>
 				<a target="_blank" href="http://sohryu.nu">Sohryu</a>
-				<a target="_blank" href="http://withinmyworld.org">Within My World</a>
 			</p>
 			<h2>Listed At</h2>
 			<p style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap;">

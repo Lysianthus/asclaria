@@ -98,6 +98,7 @@ include 'includes/header.php';
 			<p>Browse the network to be enlightened.</p>
 			<h2>Credits</h2>
 			<p>The current design features a character graphic from <i>Diabolik Lovers</i> rendered by <b><a target="_blank" href="https://keary23.deviantart.com/art/Render-14-Girl-519711064">keary23</a></b>. Special thanks!</p>
+			<p>Asclaria’s source code is <a target="_blank" href="https://github.com/Lysianthus/asclaria">public on Github</a>, too.</p>
 		</article> <!-- .article -->
 
 		<?php endif; ?>
