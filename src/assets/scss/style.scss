@@ -722,6 +722,8 @@ figure img {
 
 			ul {
 				display: none;
+				opacity: 0;
+				transition: all 300ms ease-in-out;
 			}
 		}
 	}
@@ -732,6 +734,7 @@ figure img {
 
 			ul {
 				display: block;
+				opacity: 1;
 			}
 		}
 	}
