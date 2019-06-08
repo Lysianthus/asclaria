@@ -8,11 +8,9 @@
 
 ### Server
 
-* Apache 2.4+
-* PHP 7.2+
-
-Enable Apache `rewrite_module`.
+* LiteSpeed
+* PHP
 
 ### Development
 
-* Sass 1.13+
+* Sass
