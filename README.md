@@ -8,9 +8,8 @@
 
 ### Server
 
-* LiteSpeed
-* PHP
+* LiteSpeed (latest)
 
 ### Development
 
-* Sass
+* Sass 3.4+
