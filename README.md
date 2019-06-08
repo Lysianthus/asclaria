@@ -9,6 +9,7 @@
 ### Server
 
 * LiteSpeed (latest)
+* PHP 7.2+
 
 ### Development
 
