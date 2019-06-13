@@ -81,7 +81,7 @@ include 'includes/header.php';
 				<a class="showcase__item" href="javascript:;">
 					<img class="showcase__item__thumbnail" alt="" src="/assets/images/bayonetta.png" />
 					<div class="showcase__item__info">
-						<p class="showcase__item__title">bayonetta</p>
+						<p class="showcase__item__title">Bayonetta</p>
 						<p class="showcase__item__url">bayonetta.asclaria.org</p>
 					</div> <!-- .showcase__item__info -->
 				</a> <!-- .showcase__item -->
