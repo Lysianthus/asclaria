@@ -127,15 +127,24 @@ var websites = [
 	},
 	{
 		"id": 14,
-		"title": "Tests",
-		"url": "https://tests.asclaria.org",
-		"description": "Tests is a subdomain for quizzes and tests for personal or external uses.",
-		"image": "/assets/images/tests.png",
+		"title": "Pasta",
+		"url": "https://p.haliya.net",
+		"description": "Pasta is a pastebin.",
+		"image": "/assets/images/pasta.png",
 		"thumbnail": "/assets/images/square_hands.png",
 		"category": 3
 	},
 	{
 		"id": 15,
+		"title": "Tests",
+		"url": "https://tests.asclaria.org",
+		"description": "Tests is a subdomain for quizzes and tests for personal or external uses.",
+		"image": "/assets/images/tests.png",
+		"thumbnail": "/assets/images/square_face.png",
+		"category": 3
+	},
+	{
+		"id": 16,
 		"title": "Archives",
 		"url": "https://archives.asclaria.org",
 		"description": "Archives is the place for all things past. It serves as my personal mirror for some favorite things that no longer exist on the internet.",
@@ -144,7 +153,7 @@ var websites = [
 		"category": 4
 	},
 	{
-		"id": 16,
+		"id": 17,
 		"title": "VVVVVV",
 		"url": "https://vvvvvv.asclaria.org",
 		"description": "VVVVVV is a place of nonsense. Sometimes, I put temporary projects here. Most often, this is where I just mess around.",
@@ -153,7 +162,7 @@ var websites = [
 		"category": 4
 	},
 	{
-		"id": 17,
+		"id": 18,
 		"title": "Throwaway Headquarters",
 		"url": "https://th-hq.asclaria.org",
 		"description": "Throwaway Headquarters is the headquarters for all of my throwaway websites.",
