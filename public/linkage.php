@@ -19,11 +19,11 @@ include 'includes/header.php';
 				<a target="_blank" href="http://celestialis.com" style="margin: 5px;"><img alt="" src="/assets/images/celestialis.gif" /></a>
 				<a target="_blank" href="http://eternal-wings.net" style="margin: 5px;"><img alt="" src="/assets/images/eternal-wings.png" /></a>
 				<a target="_blank" href="http://ishiryoku.net" style="margin: 5px;"><img alt="" src="/assets/images/ishiryoku.png?v=1" /></a>
-				<a target="_blank" href="http://koishii.org" style="margin: 5px;"><img alt="" src="/assets/images/koishii.png" /></a>
 				<a target="_blank" href="http://kyou.nu" style="margin: 5px;"><img alt="" src="/assets/images/kyou.jpg" /></a>
 				<a target="_blank" href="http://like-knives.org" style="margin: 5px;"><img alt="" src="/assets/images/like-knives.png" /></a>
 				<a target="_blank" href="http://londonboy.org" style="margin: 5px;"><img alt="" src="/assets/images/londonboy.png" /></a>
 				<a target="_blank" href="http://nightbringer.net" style="margin: 5px;"><img alt="" src="/assets/images/nightbringer.gif" /></a>
+				<a target="_blank" href="http://northstar.nu" style="margin: 5px;"><img alt="" src="/assets/images/northstar.png" /></a>
 				<a target="_blank" href="http://ohmydarling.org" style="margin: 5px;"><img alt="" src="/assets/images/ohmydarling.jpg" /></a>
 				<a target="_blank" href="http://overskill.org" style="margin: 5px;"><img alt="" src="/assets/images/overskill.png" /></a>
 				<a target="_blank" href="http://piratesboard.net" style="margin: 5px;"><img alt="" src="/assets/images/piratesboard.png" /></a>
