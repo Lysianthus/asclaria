@@ -133,6 +133,13 @@ include 'includes/header.php';
 					</div> <!-- .showcase__item__info -->
 				</a> <!-- .showcase__item -->
 				<a class="showcase__item" href="javascript:;">
+					<img class="showcase__item__thumbnail" alt="" src="/assets/images/bayonetta.png" />
+					<div class="showcase__item__info">
+						<p class="showcase__item__title">bayonetta</p>
+						<p class="showcase__item__url">bayonetta.asclaria.org</p>
+					</div> <!-- .showcase__item__info -->
+				</a> <!-- .showcase__item -->
+				<a class="showcase__item" href="javascript:;">
 					<img class="showcase__item__thumbnail" alt="" src="/assets/images/cornelia.png?v=2" />
 					<div class="showcase__item__info">
 						<p class="showcase__item__title">Cornelia li Britannia</p>
