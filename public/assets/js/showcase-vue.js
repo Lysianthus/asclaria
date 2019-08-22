@@ -121,7 +121,7 @@ var websites = [
 		"title": "Manila",
 		"url": "https://up.haliya.net",
 		"description": "Manila lets you store files temporarily for 24 hours.",
-		"image": "/assets/images/cat.png",
+		"image": "/assets/images/manila.png",
 		"thumbnail": "/assets/images/square_face.png",
 		"category": 3
 	},
