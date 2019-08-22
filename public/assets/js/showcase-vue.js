@@ -118,9 +118,9 @@ var websites = [
 	},
 	{
 		"id": 13,
-		"title": "Cat FTP",
-		"url": "https://cat.ftp.sh",
-		"description": "Cat FTP lets you store files temporarily for 24 hours.",
+		"title": "Manila",
+		"url": "https://up.haliya.net",
+		"description": "Manila lets you store files temporarily for 24 hours.",
 		"image": "/assets/images/cat.png",
 		"thumbnail": "/assets/images/square_face.png",
 		"category": 3
