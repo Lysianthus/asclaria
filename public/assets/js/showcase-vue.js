@@ -55,6 +55,15 @@ var websites = [
 	},
 	{
 		"id": 6,
+		"title": "Bouvardia",
+		"url": "https://bouvardia.blue",
+		"description": "Bouvardia is my personal storage box.",
+		"image": "/assets/images/bouvardia.png",
+		"thumbnail": "/assets/images/square_hands.png",
+		"category": 1
+	},
+	{
+		"id": 7,
 		"title": "Power Couple",
 		"url": "https://superwonder.asclaria.org",
 		"description": "Power Couple is a TFL-approved fanlisting for the relationship between Clark Kent/Kal-El of Krypton (Superman) and Diana of Themyscira (Wonder Woman) of DC Comics.",
@@ -63,7 +72,7 @@ var websites = [
 		"category": 2
 	},
 	{
-		"id": 7,
+		"id": 8,
 		"title": "Superman/Wonder Woman Fan Fiction Index",
 		"url": "https://smwwfics.asclaria.org",
 		"description": "This is a comprehensive list of Superman &times; Wonder Woman fan fiction read and collected from all over the internet by various authors.",
@@ -72,7 +81,7 @@ var websites = [
 		"category": 2
 	},
 	{
-		"id": 8,
+		"id": 9,
 		"title": "Balalaika GIF Bot",
 		"url": "https://twitter.com/motelhoscow",
 		"description": "a Twitter bot that tweets at least one animated GIF of Balalaika from Black Lagoon per day",
@@ -81,7 +90,7 @@ var websites = [
 		"category": 2
 	},
 	{
-		"id": 9,
+		"id": 10,
 		"title": "VERA FARMIGA EBOOKS",
 		"url": "https://twitter.com/VeraFarmigaBot",
 		"description": 'a progress in work, and a <a target="_blank" href="https://twitter.com/VeraFarmiga">@VeraFarmiga</a> bot, with words scrambled from her tweets',
@@ -90,7 +99,7 @@ var websites = [
 		"category": 2
 	},
 	{
-		"id": 10,
+		"id": 11,
 		"title": "Verna Flamingo",
 		"url": "https://vernaflamingo.isamotherfucking.ninja",
 		"description": 'Verna Flamingo is a splash page dedicated to Vera Farmiga. This project is also categorized under <a target="_blank" href="http://th-hq.asclaria.org">Throwaway Projects</a>.',
@@ -99,7 +108,7 @@ var websites = [
 		"category": 2
 	},
 	{
-		"id": 11,
+		"id": 12,
 		"title": "Smooth Sailing Listings",
 		"url": "https://smoothsailing.asclaria.org",
 		"description": "Smooth Sailing Listings is a web directory or listing for websites of any kind. It is an automated and safe way to list your website!",
@@ -108,7 +117,7 @@ var websites = [
 		"category": 3
 	},
 	{
-		"id": 12,
+		"id": 13,
 		"title": "Inner Buoyancy",
 		"url": "https://twitter.com/InnerBuoyancy",
 		"description": "Inner Buoyancy is a positivity bot that tweets reminders a couple of times a day.",
@@ -117,7 +126,7 @@ var websites = [
 		"category": 3
 	},
 	{
-		"id": 13,
+		"id": 14,
 		"title": "Manila",
 		"url": "https://up.haliya.net",
 		"description": "Manila lets you store files temporarily for 24 hours.",
@@ -126,7 +135,7 @@ var websites = [
 		"category": 3
 	},
 	{
-		"id": 14,
+		"id": 15,
 		"title": "Pasta",
 		"url": "https://p.haliya.net",
 		"description": "Pasta is a pastebin.",
@@ -135,7 +144,7 @@ var websites = [
 		"category": 3
 	},
 	{
-		"id": 15,
+		"id": 16,
 		"title": "Tests",
 		"url": "https://tests.asclaria.org",
 		"description": "Tests is a subdomain for quizzes and tests for personal or external uses.",
@@ -144,7 +153,7 @@ var websites = [
 		"category": 3
 	},
 	{
-		"id": 16,
+		"id": 17,
 		"title": "Archives",
 		"url": "https://archives.asclaria.org",
 		"description": "Archives is the place for all things past. It serves as my personal mirror for some favorite things that no longer exist on the internet.",
@@ -153,7 +162,7 @@ var websites = [
 		"category": 4
 	},
 	{
-		"id": 17,
+		"id": 18,
 		"title": "VVVVVV",
 		"url": "https://vvvvvv.asclaria.org",
 		"description": "VVVVVV is a place of nonsense. Sometimes, I put temporary projects here. Most often, this is where I just mess around.",
@@ -162,7 +171,7 @@ var websites = [
 		"category": 4
 	},
 	{
-		"id": 18,
+		"id": 19,
 		"title": "Throwaway Headquarters",
 		"url": "https://th-hq.asclaria.org",
 		"description": "Throwaway Headquarters is the headquarters for all of my throwaway websites.",
