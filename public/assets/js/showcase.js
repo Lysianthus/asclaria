@@ -138,7 +138,7 @@ var websites = [
 		"id": 15,
 		"title": "Pasta",
 		"url": "https://p.haliya.net",
-		"description": "Pasta is a pastebin.",
+		"description": "Pasta is an encrypted pastebin.",
 		"image": "/assets/images/pasta.png",
 		"thumbnail": "/assets/images/square_hands.png",
 		"category": 3
