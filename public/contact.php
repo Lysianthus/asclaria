@@ -43,7 +43,7 @@ include 'includes/header.php';
 				$message->setSubject("[Asclaria] $subject");
 				$message->setBody($body, 'text/html');
 				$message->setTo('hello@asclaria.org');
-				$message->setFrom(array($email => $name));
+				$message->setFrom(array('no-reply@asclaria.org' => 'Asclaria'));
 
 				$numSent = $mailer->send($message);
 
