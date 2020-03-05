@@ -31,7 +31,7 @@ var websites = [
 		"title": "Lysianthus",
 		"url": "https://lysianth.us",
 		"description": "Lysianthus is my personal homepage. This is my “home base.” My accounts in other websites as well as my contact information can be found here.",
-		"image": "/assets/images/lysianthus.png?v=1",
+		"image": "/assets/images/lysianthus.png?v=2",
 		"thumbnail": "/assets/images/square_face.png",
 		"category": 1
 	},
@@ -58,7 +58,7 @@ var websites = [
 		"title": "Bouvardia",
 		"url": "https://bouvardia.blue",
 		"description": "Bouvardia is my personal storage box.",
-		"image": "/assets/images/bouvardia.png",
+		"image": "/assets/images/bouvardia.png?v=3.1",
 		"thumbnail": "/assets/images/square_hands.png",
 		"category": 1
 	},
