@@ -19,11 +19,11 @@ include 'includes/header.php';
 			$security = $_POST['security'];
 
 			if ($security == 'rats') :
-				$name = stripslashes($_POST['name']);
-				$email = $_POST['email'];
-				$url = $_POST['url'];
-				$subject = stripslashes($_POST['subject']);
-				$message = nl2br(stripslashes($_POST['message']));
+				$name = filter_var(stripslashes($_POST['name']), FILTER_SANITIZE_STRING);
+				$email = filter_var($_POST['email'], FILTER_SANITIZE_EMAIL);
+				$url = filter_var($_POST['url'], FILTER_SANITIZE_URL);
+				$subject = filter_var(stripslashes($_POST['subject']), FILTER_SANITIZE_STRING);
+				$message = nl2br(filter_var(stripslashes($_POST['message']), FILTER_SANITIZE_FULL_SPECIAL_CHARS));
 
 				$body = "<p><b>Name:</b> $name</p>
 <p><b>Email Address:</b> $email</p>
