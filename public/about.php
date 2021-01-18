@@ -48,7 +48,7 @@ include 'includes/header.php';
 				<li><a target="_blank" href="https://letterboxd.com/Lysianthus/">Letterboxd</a></li>
 				<li><a target="_blank" href="https://anilist.co/user/driedfish/">AniList</a></li>
 				<li><a target="_blank" href="https://archiveofourown.org/users/aretaic">Archive of Our Own</a></li>
-				<li><a target="_blank" href="https://www.fanfiction.net/u/2155870/">FanFiction.Net</a></li>
+				<li><a target="_blank" href="https://www.fanfiction.net/~aretaic">FanFiction.Net</a></li>
 				<li><a target="_blank" href="https://github.com/Lysianthus">Github</a></li>
 			</ul>
 		</article> <!-- .article -->
