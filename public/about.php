@@ -42,7 +42,7 @@ include 'includes/header.php';
 			<p>If you want to talk, you can easily do that by hopping on the <a href="/contact">contact form</a>. If you want more of me, see the links below!</p>
 			<ul>
 				<li><a target="_blank" href="https://lysianth.us">Personal Homepage</a></li>
-				<li><a target="_blank" href="https://twitter.com/lysnths">Twitter</a></li>
+				<li><a target="_blank" href="https://twitter.com/lysianthus">Twitter</a></li>
 				<li><a target="_blank" href="https://whereisthenuance.tumblr.com">Tumblr</a></li>
 				<li><a target="_blank" href="https://www.goodreads.com/lysianthus">Goodreads</a></li>
 				<li><a target="_blank" href="https://letterboxd.com/Lysianthus/">Letterboxd</a></li>
