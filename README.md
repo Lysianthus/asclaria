@@ -8,6 +8,7 @@
 
 ### Server
 
+* a web server that supports `.htaccess`
 * PHP (latest)
 
 ### Development
