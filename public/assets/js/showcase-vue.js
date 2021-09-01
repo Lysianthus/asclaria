@@ -58,7 +58,7 @@ var websites = [
 		"title": "Bouvardia",
 		"url": "https://bouvardia.blue",
 		"description": "Bouvardia is my personal storage box.",
-		"image": "/assets/images/bouvardia.png?v=3.1",
+		"image": "/assets/images/bouvardia.png?v=4",
 		"thumbnail": "/assets/images/square_hands.png",
 		"category": 1
 	},
