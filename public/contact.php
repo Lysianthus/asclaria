@@ -1,6 +1,12 @@
 <?php
 
-require_once '/home/asclaria/libraries/swiftmailer/lib/swift_required.php';
+require '/home/asclaria/libraries/phpmailer/6.5.3/src/Exception.php';
+require '/home/asclaria/libraries/phpmailer/6.5.3/src/PHPMailer.php';
+require '/home/asclaria/libraries/phpmailer/6.5.3/src/SMTP.php';
+
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\SMTP;
+use PHPMailer\PHPMailer\Exception;
 
 $title = "Contact | ";
 include 'includes/header.php';
@@ -19,33 +25,35 @@ include 'includes/header.php';
 			$security = $_POST['security'];
 
 			if ($security == 'rats') :
-				$name = filter_var(stripslashes($_POST['name']), FILTER_SANITIZE_STRING);
+				$name = filter_var(stripslashes($_POST['name']), FILTER_SANITIZE_FULL_SPECIAL_CHARS);
 				$email = filter_var($_POST['email'], FILTER_SANITIZE_EMAIL);
 				$url = filter_var($_POST['url'], FILTER_SANITIZE_URL);
-				$subject = filter_var(stripslashes($_POST['subject']), FILTER_SANITIZE_STRING);
+				$subject = filter_var(stripslashes($_POST['subject']), FILTER_SANITIZE_FULL_SPECIAL_CHARS);
 				$message = nl2br(filter_var(stripslashes($_POST['message']), FILTER_SANITIZE_FULL_SPECIAL_CHARS));
 
-				$body = "<p><b>Name:</b> $name</p>
-<p><b>Email Address:</b> $email</p>
-<p><b>Website:</b> $url</p>
-<p><b>Message:</b></p>
-<p>$message</p>
-<hr />
-<p>This message was sent through the contact form on Asclaria.</p>";
+				$body = "<p><b>Name:</b> $name</p><p><b>Email Address:</b> $email</p><p><b>Website:</b> $url</p><p><b>Message:</b></p><p>$message</p><hr /><p>This message was sent through the contact form on Asclaria.</p>";
 
-				// Swiftmailer
+				// PHPMailer
 
-				$transport = Swift_SmtpTransport::newInstance('mail.asclaria.org', 25);
-				$mailer = Swift_Mailer::newInstance($transport);
+				$mail = new PHPMailer(TRUE);
 
-				$message = Swift_Message::newInstance();
+				try {
+					$mail->isSMTP();
+					$mail->Host = 'mail.asclaria.org';
+					$mail->Port = 25;
 
-				$message->setSubject("[Asclaria] $subject");
-				$message->setBody($body, 'text/html');
-				$message->setTo('hello@asclaria.org');
-				$message->setFrom(array('no-reply@asclaria.org' => 'Asclaria'));
+					$mail->setFrom('noreply@asclaria.org', 'Asclaria');
+					$mail->addAddress('hello@asclaria.org');
 
-				$numSent = $mailer->send($message);
+					$mail->isHTML(TRUE);
+					$mail->Subject = "[Asclaria] $subject";
+					$mail->Body = $body;
+
+					$mail->send();
+
+				} catch (Exception $e) {
+					echo "<p>The message could not be sent. Mailer Error: {$mail->ErrorInfo}</p>";
+				}
 
 ?>
 			<p>Your message has been sent successfully. Thank you so much for your time. Hopefully, you will receive a reply within the week. Have a great day!</p>
