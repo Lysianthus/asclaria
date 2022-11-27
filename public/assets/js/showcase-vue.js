@@ -116,15 +116,15 @@ var websites = [
 		"thumbnail": "/assets/images/square_face.png",
 		"category": 3
 	},
-	{
-		"id": 13,
-		"title": "Inner Buoyancy",
-		"url": "https://twitter.com/InnerBuoyancy",
-		"description": "Inner Buoyancy is a positivity bot that tweets reminders a couple of times a day.",
-		"image": "/assets/images/innerbuoyancy.png",
-		"thumbnail": "/assets/images/square_hands.png",
-		"category": 3
-	},
+	// {
+	// 	"id": 13,
+	// 	"title": "Inner Buoyancy",
+	// 	"url": "https://twitter.com/InnerBuoyancy",
+	// 	"description": "Inner Buoyancy is a positivity bot that tweets reminders a couple of times a day.",
+	// 	"image": "/assets/images/innerbuoyancy.png",
+	// 	"thumbnail": "/assets/images/square_hands.png",
+	// 	"category": 3
+	// },
 	{
 		"id": 14,
 		"title": "Manila",

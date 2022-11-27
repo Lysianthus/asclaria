@@ -144,6 +144,6 @@ include 'includes/header.php';
 	</div> <!-- .showcase -->
 
 	<script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.min.js"></script>
-	<script src="/assets/js/showcase-vue.js?v=1.4.8"></script>
+	<script src="/assets/js/showcase-vue.js?v=1.4.9"></script>
 
 <?php include 'includes/footer.php'; ?>

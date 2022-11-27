@@ -30,8 +30,8 @@ var websites = [
 		"id": 3,
 		"title": "Lysianthus",
 		"url": "https://lysianth.us",
-		"description": "Lysianthus is my personal homepage. This is my “home base.” My accounts in other websites as well as my contact information can be found here.",
-		"image": "/assets/images/lysianthus.png?v=1",
+		"description": "Lysianthus is my personal homepage. This is my “home base.” My accounts on other websites as well as my contact information can be found here.",
+		"image": "/assets/images/lysianthus.png?v=2",
 		"thumbnail": "/assets/images/square_face.png",
 		"category": 1
 	},
@@ -58,8 +58,8 @@ var websites = [
 		"title": "Bouvardia",
 		"url": "https://bouvardia.blue",
 		"description": "Bouvardia is my personal storage box.",
-		"image": "/assets/images/bouvardia.png",
-		"thumbnail": "/assets/images/square_face.png",
+		"image": "/assets/images/bouvardia.png?v=4",
+		"thumbnail": "/assets/images/square_hands.png",
 		"category": 1
 	},
 	{
@@ -101,8 +101,8 @@ var websites = [
 	{
 		"id": 11,
 		"title": "Verna Flamingo",
-		"url": "https://vernaflamingo.isamotherfucking.ninja",
-		"description": 'Verna Flamingo is a splash page dedicated to Vera Farmiga. This project is also categorized under <a target="_blank" href="http://th-hq.asclaria.org">Throwaway Projects</a>.',
+		"url": "https://vernaflamingo.asclaria.org",
+		"description": "Verna Flamingo is a splash page dedicated to Vera Farmiga.",
 		"image": "/assets/images/vernaflamingo.png",
 		"thumbnail": "/assets/images/vernaflamingo_thumb.png",
 		"category": 2
@@ -116,15 +116,15 @@ var websites = [
 		"thumbnail": "/assets/images/square_face.png",
 		"category": 3
 	},
-	{
-		"id": 13,
-		"title": "Inner Buoyancy",
-		"url": "https://twitter.com/InnerBuoyancy",
-		"description": "Inner Buoyancy is a positivity bot that tweets reminders a couple of times a day.",
-		"image": "/assets/images/innerbuoyancy.png",
-		"thumbnail": "/assets/images/square_hands.png",
-		"category": 3
-	},
+	// {
+	// 	"id": 13,
+	// 	"title": "Inner Buoyancy",
+	// 	"url": "https://twitter.com/InnerBuoyancy",
+	// 	"description": "Inner Buoyancy is a positivity bot that tweets reminders a couple of times a day.",
+	// 	"image": "/assets/images/innerbuoyancy.png",
+	// 	"thumbnail": "/assets/images/square_hands.png",
+	// 	"category": 3
+	// },
 	{
 		"id": 14,
 		"title": "Manila",
