@@ -130,7 +130,7 @@ var websites = [
 		"title": "Paste",
 		"url": "https://paste.haliya.net",
 		"description": "Paste is an encrypted pastebin.",
-		"image": "/assets/images/pasta.png",
+		"image": "/assets/images/paste.png",
 		"thumbnail": "/assets/images/square_hands.png",
 		"category": 3
 	},
