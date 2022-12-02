@@ -127,9 +127,9 @@ var websites = [
 	},
 	{
 		"id": 14,
-		"title": "Pasta",
-		"url": "https://p.haliya.net",
-		"description": "Pasta is an encrypted pastebin.",
+		"title": "Paste",
+		"url": "https://paste.haliya.net",
+		"description": "Paste is an encrypted pastebin.",
 		"image": "/assets/images/pasta.png",
 		"thumbnail": "/assets/images/square_hands.png",
 		"category": 3
