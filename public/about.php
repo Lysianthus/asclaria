@@ -69,7 +69,7 @@ include 'includes/header.php';
 		<h1 class="page__heading">About</h1>
 		<article class="article">
 			<h2>Hello!</h2>
-			<p>Welcome to <i>Asclaria</i>, my (<a href="/about/lysianthus">Lysianthus</a>’s) umbrella network. All of my personal websites, cliques, fanlistings, fansites, shrines, tributes, and miscellaneous projects are under this umbrella.</p>
+			<p>Welcome to <i>Asclaria</i>, my (<a target="_blank" href="https://lysianth.us">Lysianthus</a>’s) umbrella network. All of my personal websites, cliques, fanlistings, fansites, shrines, tributes, and miscellaneous projects are under this umbrella.</p>
 			<h2>Umbrella? What?</h2>
 			<p>I decided to call Asclaria an &ldquo;umbrella&rdquo; network, because it does exactly what an umbrella does. It is a thing that &ldquo;includes or contains many different elements or parts&rdquo;. In this context, the elements referred to are my various online projects.</p>
 			<!-- <h2>What’s in a name?</h2>
