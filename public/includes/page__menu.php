@@ -12,9 +12,9 @@
 				</li>
 				<li>
 					<a href="/about/">/about</a>
-					<ul>
+					<!-- <ul>
 						<li><a href="/about/lysianthus">/about/lysianthus</a></li>
-					</ul>
+					</ul> -->
 				</li>
 				<li><a href="/linkage/">/linkage</a></li>
 				<li><a href="/contact/">/contact</a></li>

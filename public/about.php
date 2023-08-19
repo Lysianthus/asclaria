@@ -72,9 +72,9 @@ include 'includes/header.php';
 			<p>Welcome to <i>Asclaria</i>, my (<a href="/about/lysianthus">Lysianthus</a>’s) umbrella network. All of my personal websites, cliques, fanlistings, fansites, shrines, tributes, and miscellaneous projects are under this umbrella.</p>
 			<h2>Umbrella? What?</h2>
 			<p>I decided to call Asclaria an &ldquo;umbrella&rdquo; network, because it does exactly what an umbrella does. It is a thing that &ldquo;includes or contains many different elements or parts&rdquo;. In this context, the elements referred to are my various online projects.</p>
-			<h2>What’s in a name?</h2>
+			<!-- <h2>What’s in a name?</h2>
 			<p>The network name &ldquo;<i>asclaria</i>&rdquo; came from nothing; it is a random combination of my favorite letters, sounds, and syllables from the English alphabet.</p>
-			<p>Asclaria didn’t start as asclaria, however. It had undergone many name revamps. This umbrella network was once called <i>Lyffae</i>, <i>Lyqei</i>, <i>Ephevatic</i>, <i>Lascuvia</i>, <i>Clyre</i>, <i>Clyris</i>, and <i>Clyrant</i>. It was the unending search for the original name that both looks and sounds good. <i>Asclaria</i> was chosen for its first launch.</p>
+			<p>Asclaria didn’t start as asclaria, however. It had undergone many name revamps. This umbrella network was once called <i>Lyffae</i>, <i>Lyqei</i>, <i>Ephevatic</i>, <i>Lascuvia</i>, <i>Clyre</i>, <i>Clyris</i>, and <i>Clyrant</i>. It was the unending search for the original name that both looks and sounds good. <i>Asclaria</i> was chosen for its first launch.</p> -->
 			<h2>Domains</h2>
 			<p>This network runs on a few domains. They are:</p>
 			<ul>
@@ -84,6 +84,7 @@ include 'includes/header.php';
 				<li>leprd.space</li>
 				<li>meowandsparkle.party</li>
 				<li>bouvardia.blue</li>
+				<li>ocean.pink</li>
 				<li>haliya.net</li>
 			</ul>
 			<p>Each domain is a sub-umbrella.</p>
