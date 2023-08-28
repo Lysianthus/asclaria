@@ -118,15 +118,6 @@ var websites = [
 	},
 	{
 		"id": 13,
-		"title": "Manila",
-		"url": "https://up.haliya.net",
-		"description": "Manila lets you store files temporarily for 24 hours.",
-		"image": "/assets/images/manila.png",
-		"thumbnail": "/assets/images/square_face.png",
-		"category": 3
-	},
-	{
-		"id": 14,
 		"title": "Paste",
 		"url": "https://paste.haliya.net",
 		"description": "Paste is an encrypted pastebin.",
@@ -135,12 +126,21 @@ var websites = [
 		"category": 3
 	},
 	{
+		"id": 14,
+		"title": "Fly!",
+		"url": "https://fly.ocean.pink",
+		"description": "Fly! is a URL shortener.",
+		"image": "/assets/images/fly.png",
+		"thumbnail": "/assets/images/square_face.png",
+		"category": 3
+	},
+	{
 		"id": 15,
 		"title": "Tests",
 		"url": "https://tests.asclaria.org",
 		"description": "Tests is a subdomain for quizzes and tests for personal or external uses.",
 		"image": "/assets/images/tests.png",
-		"thumbnail": "/assets/images/square_face.png",
+		"thumbnail": "/assets/images/square_hands.png",
 		"category": 3
 	},
 	{
