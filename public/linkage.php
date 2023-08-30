@@ -48,7 +48,11 @@ include 'includes/header.php';
 				<a target="_blank" href="http://zeruda.org" style="margin: 5px;"><img alt="" src="/assets/images/zeruda.gif?v=1" /></a>
 			</p>
 			<p style="text-align: center">
-				<a target="_blank" href="http://ontheaxis.net"><img alt="" src="/assets/images/ontheaxis.png" /></a>
+				<a target="_blank" href="https://fan.minty.nu"><img alt="" src="/assets/images/minty.png" /></a>
+			</p>
+			<p style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap;">
+				<a target="_blank" href="http://ontheaxis.net" style="margin: 5px;"><img alt="" src="/assets/images/ontheaxis.png" /></a>
+				<a target="_blank" href="http://oubliette.nu" style="margin: 5px;"><img alt="" src="/assets/images/oubliette.png" /></a>
 			</p>
 			<p style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
 				<a target="_blank" href="http://aroceu.com">Aroceu</a>
@@ -67,7 +71,7 @@ include 'includes/header.php';
 			<p style="text-align: center;">Asclaria is under the protection of <a target="_blank" href="http://patron.snow-heart.net">Lady Hestia</a>.</p>
 			<p style="text-align: center;"><a target="_blank" href="http://ohmydarling.org/food/">just can't get enough</a> » Lasagna, baby!</p>
 			<p style="text-align: center;">I'm a <a target="_blank" href="http://pkmn.zeruda.org/clique/"><img alt="" src="/assets/images/water.gif">/<img alt="" src="/assets/images/fairy.gif" /></a> type!</p>
-			<h2>Joined Cliques</h2>
+			<h2>Joined Cliques & Webrings</h2>
 			<p style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 				<a target="_blank" href="http://patron.snow-heart.net" style="margin: 5px;"><img alt="" src="/assets/images/patron.gif" /></a>
 				<a target="_blank" href="http://oceanflare.net/stargazer/" style="margin: 5px;"><img alt="" src="/assets/images/stargazer.gif" /></a>
@@ -75,6 +79,9 @@ include 'includes/header.php';
 				<a target="_blank" href="http://cliques.ruby-wings.net/fight/" style="margin: 5px;"><img alt="" src="/assets/images/fight.png" /></a>
 				<a target="_blank" href="http://pkmn.zeruda.org/clique/" style="margin: 5px;"><img alt="" src="/assets/images/pokemon.gif" /></a>
 				<a target="_blank" href="http://samurai.genkigirl.net" style="margin: 5px;"><img alt="" src="/assets/images/ronin.png" /></a>
+			</p>
+			<p style="text-align: center;">
+
 			</p>
 			<h2>Link to Asclaria</h2>
 			<p>If you want to link Asclaria on your website (awesome!!!), you can use the following buttons.</p>
