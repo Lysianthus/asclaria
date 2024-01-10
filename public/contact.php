@@ -29,7 +29,7 @@ if (isset($_POST['contact'])) {
 		try {
 			$mail->isSMTP();
 			$mail->Host = 'mail.asclaria.org';
-			$mail->Port = 25;
+			$mail->Port = 587;
 
 			$mail->setFrom('noreply@asclaria.org', 'Asclaria');
 			$mail->addAddress('hello@asclaria.org');
