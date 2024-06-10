@@ -28,7 +28,7 @@ if (isset($_POST['contact'])) {
 
 		try {
 			$mail->isSMTP();
-			$mail->Host = 'mail.asclaria.org';
+			$mail->Host = 'nlshared7.ramnode.com';
 			$mail->Port = 587;
 
 			$mail->setFrom('noreply@asclaria.org', 'Asclaria');
