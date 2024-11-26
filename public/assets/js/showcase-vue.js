@@ -160,15 +160,6 @@ var websites = [
 		"image": "/assets/images/vvvvvv.png",
 		"thumbnail": "/assets/images/square_hands.png",
 		"category": 4
-	},
-	{
-		"id": 18,
-		"title": "Throwaway Headquarters",
-		"url": "https://th-hq.asclaria.org",
-		"description": "Throwaway Headquarters is the headquarters for all of my throwaway websites.",
-		"image": "/assets/images/th-hq.png",
-		"thumbnail": "/assets/images/square_face.png",
-		"category": 4
 	}
 ];
 
