@@ -18,6 +18,5 @@
 				</li>
 				<li><a href="/linkage/">/linkage</a></li>
 				<li><a href="/contact/">/contact</a></li>
-				<li><a target="_blank" href="https://twitter.com/asclaria">Twitter</a></li>
 			</ul> <!-- .page__menu__list -->
 		</div> <!-- .page__menu -->
