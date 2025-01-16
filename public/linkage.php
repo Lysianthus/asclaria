@@ -16,7 +16,7 @@ include 'includes/header.php';
 			<p style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap;">
 				<a target="_blank" href="http://aminuet.com" style="margin: 5px;"><img alt="" src="/assets/images/aminuet.gif" /></a>
 				<a target="_blank" href="http://azurelight.net" style="margin: 5px;"><img alt="" src="/assets/images/azurelight.gif" /></a>
-				<a target="_blank" href="http://celestialis.com" style="margin: 5px;"><img alt="" src="/assets/images/celestialis.gif" /></a>
+				<a target="_blank" href="http://caelestis.nu" style="margin: 5px;"><img alt="" src="/assets/images/caelestis.png" /></a>
 				<a target="_blank" href="http://eternal-wings.net" style="margin: 5px;"><img alt="" src="/assets/images/eternal-wings.png" /></a>
 				<a target="_blank" href="http://ishiryoku.net" style="margin: 5px;"><img alt="" src="/assets/images/ishiryoku.png?v=1" /></a>
 				<a target="_blank" href="http://kyou.nu" style="margin: 5px;"><img alt="" src="/assets/images/kyou.jpg" /></a>
