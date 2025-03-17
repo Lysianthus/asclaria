@@ -28,11 +28,12 @@ if (isset($_POST['contact'])) {
 
 		try {
 			$mail->isSMTP();
-			$mail->Host = 'nlshared7.ramnode.com';
+			$mail->Host = 'mail.asclaria.org';
 			$mail->Port = 587;
 
 			$mail->setFrom('noreply@asclaria.org', 'Asclaria');
 			$mail->addAddress('hello@asclaria.org');
+			$mail->addReplyTo($email, $name);
 
 			$mail->isHTML(TRUE);
 			$mail->Subject = "[Asclaria] $subject";
