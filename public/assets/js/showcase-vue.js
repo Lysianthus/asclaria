@@ -75,7 +75,7 @@ var websites = [
 		"id": 8,
 		"title": "Superman/Wonder Woman Fan Fiction Index",
 		"url": "https://smwwfics.asclaria.org",
-		"description": "This is a comprehensive list of Superman &times; Wonder Woman fan fiction read and collected from all over the internet by various authors.",
+		"description": "This is a comprehensive list of Superman &times; Wonder Woman fan fiction read and collected from all over the internet by various authors. This website is now in archive mode.",
 		"image": "/assets/images/smwwfics.png?v=1",
 		"thumbnail": "/assets/images/smwwfics_thumb.png",
 		"category": 2
