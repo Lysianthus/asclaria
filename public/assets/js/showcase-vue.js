@@ -160,6 +160,15 @@ var websites = [
 		"image": "/assets/images/vvvvvv.png",
 		"thumbnail": "/assets/images/square_hands.png",
 		"category": 4
+	},
+	{
+		"id": 18,
+		"title": "Paget",
+		"url": "https://paget.asclaria.org",
+		"description": "paget.ink is a website where I [used to] log Paget Brewster content and events. This website is now in archive mode.",
+		"image": "/assets/images/paget.png",
+		"thumbnail": "/assets/images/paget_thumb.png",
+		"category": 2
 	}
 ];
 

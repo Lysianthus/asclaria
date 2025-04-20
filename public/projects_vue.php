@@ -69,37 +69,37 @@ include 'includes/header.php';
 				</showcase-item>
 			</nav> <!-- .showcase__header__menu -->
 
-			<nav class="showcase__header__menu">
+			<!-- nav class="showcase__header__menu">
 				<h2 class="showcase__header__menu__heading">&mdash; Coming Soon &mdash;</h2>
 				<a class="showcase__item" href="javascript:;">
 					<img class="showcase__item__thumbnail" alt="" src="/assets/images/balalaika.png" />
 					<div class="showcase__item__info">
 						<p class="showcase__item__title">Balalaika</p>
 						<p class="showcase__item__url">balalaika.asclaria.org</p>
-					</div> <!-- .showcase__item__info -->
-				</a> <!-- .showcase__item -->
+					</div>
+				</a>
 				<a class="showcase__item" href="javascript:;">
 					<img class="showcase__item__thumbnail" alt="" src="/assets/images/bayonetta.png" />
 					<div class="showcase__item__info">
 						<p class="showcase__item__title">Bayonetta</p>
 						<p class="showcase__item__url">bayonetta.asclaria.org</p>
-					</div> <!-- .showcase__item__info -->
-				</a> <!-- .showcase__item -->
+					</div>
+				</a>
 				<a class="showcase__item" href="javascript:;">
 					<img class="showcase__item__thumbnail" alt="" src="/assets/images/cornelia.png?v=2" />
 					<div class="showcase__item__info">
 						<p class="showcase__item__title">Cornelia li Britannia</p>
 						<p class="showcase__item__url">cornelia.asclaria.org</p>
-					</div> <!-- .showcase__item__info -->
-				</a> <!-- .showcase__item -->
+					</div>
+				</a>
 				<a class="showcase__item" href="javascript:;">
 					<img class="showcase__item__thumbnail" alt="" src="/assets/images/norma.png" />
 					<div class="showcase__item__info">
 						<p class="showcase__item__title">Norma Louise Bates</p>
 						<p class="showcase__item__url">norma.asclaria.org</p>
-					</div> <!-- .showcase__item__info -->
-				</a> <!-- .showcase__item -->
-			</nav> <!-- .showcase__header__menu -->
+					</div>
+				</a>
+			</nav -->
 			
 			<?php elseif ($category == 'interactive') : ?>
 
@@ -144,6 +144,6 @@ include 'includes/header.php';
 	</div> <!-- .showcase -->
 
 	<script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.min.js"></script>
-	<script src="/assets/js/showcase-vue.js?v=1.5.4"></script>
+	<script src="/assets/js/showcase-vue.js?v=1.5.6"></script>
 
 <?php include 'includes/footer.php'; ?>
