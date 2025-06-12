@@ -11,8 +11,8 @@ var websites = [
 	{
 		"id": 1,
 		"title": "Affelius",
-		"url": "https://affeli.us",
-		"description": "Affelius is my creative repository. This is where I archive, publish, and showcase my creative works, such as written articles, illustrations, attempts in color adjustment and image manipulation, personally-taken photographs, design concepts, website templates, simple to complex web programs, online experiments, and many other original creations.",
+		"url": "https://affelius.asclaria.org",
+		"description": "Affelius is my creative repository. This is where I archive, publish, and showcase my creative works, such as writings, designs, web experiments, and many other original creations. Formerly at <code>https://affeli.us</code>, this website is now archived.",
 		"image": "/assets/images/affelius.png",
 		"thumbnail": "/assets/images/square_face.png",
 		"category": 1
