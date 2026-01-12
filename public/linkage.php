@@ -68,7 +68,7 @@ include 'includes/header.php';
 			</p>
 			<h2>Claims</h2>
 			<p style="text-align: center;">Asclaria is guarded by <a target="_blank" href="http://samurai.genkigirl.net"><img alt="Sage of Halo" src="/assets/images/samurai.gif" />, the Sage of Halo</a>.</p>
-			<p style="text-align: center;">Asclaria is under the protection of <a target="_blank" href="http://patron.snow-heart.net">Lady Hestia</a>.</p>
+			<p style="text-align: center;">Asclaria is under the protection of <a target="_blank" href="http://patron.snow-heart.net">Haliya</a>.</p>
 			<p style="text-align: center;"><a target="_blank" href="http://ohmydarling.org/food/">just can't get enough</a> » Lasagna, baby!</p>
 			<p style="text-align: center;">I'm a <a target="_blank" href="http://pkmn.zeruda.org/clique/"><img alt="" src="/assets/images/water.gif">/<img alt="" src="/assets/images/fairy.gif" /></a> type!</p>
 			<h2>Joined Cliques & Webrings</h2>
